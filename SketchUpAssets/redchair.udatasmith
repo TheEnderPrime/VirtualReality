@@ -1,0 +1,100 @@
+<DatasmithUnrealScene>
+	<Version>0.21</Version>
+	<SDKVersion>4.21E1</SDKVersion>
+	<Host>SketchUp</Host>
+	<Application Vendor="Trimble Inc." ProductName="SketchUp Pro" ProductVersion="2018"/>
+	<User ID="32fc6fe84632f0b399fcd5a68aad6c1a" OS="Windows 8.1"/>
+	<StaticMesh name="M16f86fd9e5e0a73ba9c1f15777d245cb_1" label="Stacy">
+		<file path="redchair_Assets/M16f86fd9e5e0a73ba9c1f15777d245cb_1.udsmesh"/>
+		<Size a="216.593307" x="21.768829" y="0.0" z="65.568192"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0195f00eb7141f6aaa78de3abc6a1c09"/>
+		<Material id="151286" name="Stacy_Skin-Gdeede330567b2d504bc6ba933c8688e1"/>
+		<Material id="151291" name="Stacy_Pants-G75efc4e368b9b6c1b24eb350f5739533"/>
+		<Material id="151289" name="Stacy_Shoe_Laces_Sole-Gea512b7701f33f51a72cf58ab4aa535f"/>
+		<Material id="151288" name="Stacy_Shoe-G4f47d0c19ffbbdca5eadfb4ac9227380"/>
+		<Material id="151287" name="Stacy_Shirt-G91ca0126f5feb34418a34f1fe6a259e1"/>
+		<Material id="151290" name="Stacy_Hair-G052da2f9d4aeb5d870955ee5f50e8ada"/>
+	</StaticMesh>
+	<StaticMesh name="Ma96997ae3cc96382b47d19925360efa8_1" label="Component_4">
+		<file path="redchair_Assets/Ma96997ae3cc96382b47d19925360efa8_1.udsmesh"/>
+		<Size a="477592.3125" x="338.070862" y="426.181122" z="243.031494"/>
+		<LightmapUV value="-1"/>
+		<Hash value="5797e43ff89a5a5e79ac10fbc12b47b4"/>
+		<Material id="151334" name="Wood_Bamboo_Medium-L5b8c478964f6a0d62bddfcdcae4503fe"/>
+		<Material id="151294" name="Color_A11-G0fb8ca199448870f5e0ab97464b17979"/>
+	</StaticMesh>
+	<StaticMesh name="Ma96997ae3cc96382b47d19925360efa8_2" label="Component_4">
+		<file path="redchair_Assets/Ma96997ae3cc96382b47d19925360efa8_2.udsmesh"/>
+		<Size a="336352.875" x="284.566956" y="337.165314" z="247.713806"/>
+		<LightmapUV value="-1"/>
+		<Hash value="19e89728daf1618e16cb846a8b2d0487"/>
+		<Material id="151294" name="Color_A11-G0fb8ca199448870f5e0ab97464b17979"/>
+	</StaticMesh>
+	<ActorMesh name="SU_11163_1" label="Stacy" layer="Layer0">
+		<mesh name="M16f86fd9e5e0a73ba9c1f15777d245cb_1"/>
+		<Transform tx="-46.990002" ty="35.560001" tz="0.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.012549" qw="0.999921" qhex="0000000000000080B9994DBCD7FA7F3F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.0fxLClcCKlGuztRQwoPXbx" />
+		<tag value="SU.PATH.0.11163" />
+		<tag value="SU.BEHAVIOR.FaceCamera" />
+	</ActorMesh>
+	<Actor name="SU_77821" label="Component_4" layer="Layer0">
+		<Transform tx="259.317169" ty="-212.719223" tz="-51.127998" sx="0.3556" sy="0.3556" sz="0.3556" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.3wePU7Dw17_Q3wxmmxEm2T" />
+		<tag value="SU.PATH.0.77821" />
+		<children visible="true"  selector="false" selection="-1">
+			<ActorMesh name="SU_77821_1" label="Component_4" layer="Layer0">
+				<mesh name="Ma96997ae3cc96382b47d19925360efa8_1"/>
+				<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+				<Transform tx="259.317169" ty="-212.719223" tz="-51.127998" sx="0.3556" sy="0.3556" sz="0.3556" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.3wePU7Dw17_Q3wxmmxEm2T" />
+				<tag value="SU.PATH.0.77821" />
+			</ActorMesh>
+			<ActorMesh name="SU_77821_2" label="Component_4" layer="Layer0">
+				<mesh name="Ma96997ae3cc96382b47d19925360efa8_2"/>
+				<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+				<Transform tx="259.317169" ty="-212.719223" tz="-51.127998" sx="0.3556" sy="0.3556" sz="0.3556" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.3wePU7Dw17_Q3wxmmxEm2T" />
+				<tag value="SU.PATH.0.77821" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Texture name="Wood_Bamboo_Medium" texturemode="0" rgbcurve="-1.000000" file="redchair_Assets/Wood_Bamboo_Medium.jpg">
+		<Hash value="5c295377b5841043c91fa6fdd77423e6"/>
+	</Texture>
+	<MasterMaterial name="Default-G7a1920d61156abc05a60135aefe8bc67"  label="Default" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.215861,G=0.215861,B=0.215861,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Stacy_Skin-Gdeede330567b2d504bc6ba933c8688e1"  label="Stacy_Skin" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.644480,G=0.456411,B=0.262251,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Stacy_Shirt-G91ca0126f5feb34418a34f1fe6a259e1"  label="Stacy_Shirt" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.132868,G=0.132868,B=0.132868,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Stacy_Shoe-G4f47d0c19ffbbdca5eadfb4ac9227380"  label="Stacy_Shoe" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.791298,G=0.024158,B=0.025187,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Stacy_Shoe_Laces_Sole-Gea512b7701f33f51a72cf58ab4aa535f"  label="Stacy_Shoe_Laces_Sole" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.760525,G=0.760525,B=0.760525,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Stacy_Hair-G052da2f9d4aeb5d870955ee5f50e8ada"  label="Stacy_Hair" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.017642,G=0.006512,B=0.002125,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Stacy_Pants-G75efc4e368b9b6c1b24eb350f5739533"  label="Stacy_Pants" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.021219,G=0.042311,B=0.111932,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_A11-G0fb8ca199448870f5e0ab97464b17979"  label="Color_A11" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.318547,G=0.000000,B=0.000000,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Wood_Bamboo_Medium-L5b8c478964f6a0d62bddfcdcae4503fe"  label="Wood_Bamboo_Medium" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.439657,G=0.141263,B=0.024158,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="Wood_Bamboo_Medium.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=1.0,G=-1.0,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<Export Duration="0"/>
+</DatasmithUnrealScene>

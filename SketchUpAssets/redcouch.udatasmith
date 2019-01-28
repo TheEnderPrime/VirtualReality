@@ -1,0 +1,144 @@
+<DatasmithUnrealScene>
+	<Version>0.21</Version>
+	<SDKVersion>4.21E1</SDKVersion>
+	<Host>SketchUp</Host>
+	<Application Vendor="Trimble Inc." ProductName="SketchUp Pro" ProductVersion="2018"/>
+	<User ID="32fc6fe84632f0b399fcd5a68aad6c1a" OS="Windows 8.1"/>
+	<StaticMesh name="M16f86fd9e5e0a73ba9c1f15777d245cb_1" label="Stacy">
+		<file path="redcouch_Assets/M16f86fd9e5e0a73ba9c1f15777d245cb_1.udsmesh"/>
+		<Size a="216.593307" x="21.768829" y="0.0" z="65.568192"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f18d36abf6e47cb8d8f22694a90b59a3"/>
+		<Material id="31" name="Stacy_Skin-Gdeede330567b2d504bc6ba933c8688e1"/>
+		<Material id="36" name="Stacy_Pants-G75efc4e368b9b6c1b24eb350f5739533"/>
+		<Material id="34" name="Stacy_Shoe_Laces_Sole-Gea512b7701f33f51a72cf58ab4aa535f"/>
+		<Material id="33" name="Stacy_Shoe-G4f47d0c19ffbbdca5eadfb4ac9227380"/>
+		<Material id="32" name="Stacy_Shirt-G91ca0126f5feb34418a34f1fe6a259e1"/>
+		<Material id="35" name="Stacy_Hair-G052da2f9d4aeb5d870955ee5f50e8ada"/>
+	</StaticMesh>
+	<StaticMesh name="M503513c5a0c65c24e080afbb6d7727ea_1" label="Component_2">
+		<file path="redcouch_Assets/M503513c5a0c65c24e080afbb6d7727ea_1.udsmesh"/>
+		<Size a="7210.136719" x="29.918289" y="97.774078" z="5.5625"/>
+		<LightmapUV value="-1"/>
+		<Hash value="69e5b1724c8b411b6bc0d1fd69d26abb"/>
+	</StaticMesh>
+	<StaticMesh name="M60a8b5889bc1b6163f2bdb98f2ae2c69_1" label="Component_3">
+		<file path="redcouch_Assets/M60a8b5889bc1b6163f2bdb98f2ae2c69_1.udsmesh"/>
+		<Size a="7410.158203" x="6.051425" y="97.774078" z="23.125"/>
+		<LightmapUV value="-1"/>
+		<Hash value="62446fefe9c4016d92df45761c6aa967"/>
+	</StaticMesh>
+	<StaticMesh name="Md9c182949229fe61594b6d77025359c7_1" label="Pillow">
+		<file path="redcouch_Assets/Md9c182949229fe61594b6d77025359c7_1.udsmesh"/>
+		<Size a="489.166412" x="26.225739" y="15.0" z="5.477221"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f7adf51168b1fbfccbf807e097b0ca58"/>
+	</StaticMesh>
+	<StaticMesh name="M2cb05e4bb7830be982f0922fed86b4cd_1" label="Component">
+		<file path="redcouch_Assets/M2cb05e4bb7830be982f0922fed86b4cd_1.udsmesh"/>
+		<Size a="19183.005859" x="35.398125" y="114.0625" z="40.0625"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b8c7452943640a98cca848d4b8563602"/>
+		<Material id="38" name="_Charcoal_-G1e0b77a3e959d4cd8df22e8d788f68fc"/>
+		<Material id="37" name="_LightGray_-G3ba7f152ee02fcf2fc050d696fc9691a"/>
+		<Material id="40" name="Color_003-Ge2f3ff2d999393198b9ed5c673bb2e42"/>
+	</StaticMesh>
+	<ActorMesh name="SU_11163_1" label="Stacy" layer="Layer0">
+		<mesh name="M16f86fd9e5e0a73ba9c1f15777d245cb_1"/>
+		<Transform tx="-46.990002" ty="35.560001" tz="0.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.289802" qw="0.957087" qhex="0000000000000080EB6094BEA103753F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.0fxLClcCKlGuztRQwoPXbx" />
+		<tag value="SU.PATH.0.11163" />
+		<tag value="SU.BEHAVIOR.FaceCamera" />
+	</ActorMesh>
+	<Actor name="SU_11915" label="Component" layer="Layer0">
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.2jONGAQdH5VuDesqkPOBZ8" />
+		<tag value="SU.PATH.0.11915" />
+		<children visible="true"  selector="false" selection="-1">
+			<ActorMesh name="SU_11915_11638_1" label="Component_2" layer="Layer0">
+				<mesh name="M503513c5a0c65c24e080afbb6d7727ea_1"/>
+				<material id="0" name="Color_A11-G0fb8ca199448870f5e0ab97464b17979"/>
+				<Transform tx="-19.385895" ty="20.686296" tz="50.476486" sx="2.59842" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.2CbG7rSQL1Tg6DLZ8YJ0CV" />
+				<tag value="SU.PATH.0.11915.11638" />
+			</ActorMesh>
+			<ActorMesh name="SU_11915_11737_1" label="Component_3" layer="Layer0">
+				<mesh name="M60a8b5889bc1b6163f2bdb98f2ae2c69_1"/>
+				<material id="0" name="Color_A11-G0fb8ca199448870f5e0ab97464b17979"/>
+				<Transform tx="-19.090618" ty="20.686296" tz="65.398987" sx="2.3622" sy="2.54" sz="2.2098" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.1nKljlrHP1HegkUACq0tg4" />
+				<tag value="SU.PATH.0.11915.11737" />
+			</ActorMesh>
+			<ActorMesh name="SU_11915_11912_1" label="Pillow" layer="Layer0">
+				<mesh name="Md9c182949229fe61594b6d77025359c7_1"/>
+				<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+				<Transform tx="-49.404644" ty="259.502533" tz="87.499649" sx="2.54" sy="2.54" sz="2.54" qx="0.454933" qy="-0.108184" qz="-0.257232" qw="0.845674" qhex="05EDE83EAE8FDDBDDCB383BE107E583F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.0$E8tdrQ54XRAP2APGYxuI" />
+				<tag value="SU.PATH.0.11915.11912" />
+			</ActorMesh>
+			<ActorMesh name="SU_11915_11913_1" label="Pillow" layer="Layer0">
+				<mesh name="Md9c182949229fe61594b6d77025359c7_1"/>
+				<material id="0" name="_Charcoal_-G1e0b77a3e959d4cd8df22e8d788f68fc"/>
+				<Transform tx="-28.615414" ty="209.253998" tz="93.346146" sx="2.54" sy="2.54" sz="2.54" qx="0.540777" qy="-0.264481" qz="-0.473888" qw="0.642682" qhex="5D700A3FFE6987BE71A1F2BED486243F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.0$E8tdrQ54XRAP2APGYxuI" />
+				<tag value="SU.PATH.0.11915.11913" />
+			</ActorMesh>
+			<ActorMesh name="SU_11915_11914_1" label="Pillow" layer="Layer0">
+				<mesh name="Md9c182949229fe61594b6d77025359c7_1"/>
+				<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+				<Transform tx="-48.54446" ty="31.980732" tz="87.499649" sx="2.54" sy="2.54" sz="2.54" qx="0.245189" qy="-0.398184" qz="-0.779872" qw="0.416091" qhex="BE127B3ECCDECBBEACA547BFEA09D53E"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.0$E8tdrQ54XRAP2APGYxuI" />
+				<tag value="SU.PATH.0.11915.11914" />
+			</ActorMesh>
+			<ActorMesh name="SU_11915_1" label="Component" layer="Layer0">
+				<mesh name="M2cb05e4bb7830be982f0922fed86b4cd_1"/>
+				<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.2jONGAQdH5VuDesqkPOBZ8" />
+				<tag value="SU.PATH.0.11915" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<MasterMaterial name="Default-G7a1920d61156abc05a60135aefe8bc67"  label="Default" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.215861,G=0.215861,B=0.215861,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Stacy_Skin-Gdeede330567b2d504bc6ba933c8688e1"  label="Stacy_Skin" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.644480,G=0.456411,B=0.262251,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Stacy_Shirt-G91ca0126f5feb34418a34f1fe6a259e1"  label="Stacy_Shirt" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.132868,G=0.132868,B=0.132868,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Stacy_Shoe-G4f47d0c19ffbbdca5eadfb4ac9227380"  label="Stacy_Shoe" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.791298,G=0.024158,B=0.025187,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Stacy_Shoe_Laces_Sole-Gea512b7701f33f51a72cf58ab4aa535f"  label="Stacy_Shoe_Laces_Sole" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.760525,G=0.760525,B=0.760525,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Stacy_Hair-G052da2f9d4aeb5d870955ee5f50e8ada"  label="Stacy_Hair" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.017642,G=0.006512,B=0.002125,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Stacy_Pants-G75efc4e368b9b6c1b24eb350f5739533"  label="Stacy_Pants" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.021219,G=0.042311,B=0.111932,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="_LightGray_-G3ba7f152ee02fcf2fc050d696fc9691a"  label="&lt;LightGray&gt;" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.396755,G=0.396755,B=0.396755,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="_Charcoal_-G1e0b77a3e959d4cd8df22e8d788f68fc"  label="&lt;Charcoal&gt;" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.016807,G=0.016807,B=0.016807,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_A11-G0fb8ca199448870f5e0ab97464b17979"  label="Color_A11" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.318547,G=0.000000,B=0.000000,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_003-Ge2f3ff2d999393198b9ed5c673bb2e42"  label="Color_003" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.401978,G=0.401978,B=0.401978,A=1.000000)"/>
+	</MasterMaterial>
+	<Export Duration="0"/>
+</DatasmithUnrealScene>

@@ -1,0 +1,263 @@
+<DatasmithUnrealScene>
+	<Version>0.21</Version>
+	<SDKVersion>4.21E1</SDKVersion>
+	<Host>SketchUp</Host>
+	<Application Vendor="Trimble Inc." ProductName="SketchUp Pro" ProductVersion="2018"/>
+	<User ID="32fc6fe84632f0b399fcd5a68aad6c1a" OS="Windows 8.1"/>
+	<StaticMesh name="M16f86fd9e5e0a73ba9c1f15777d245cb_1" label="Stacy">
+		<file path="TVandChair_Assets/M16f86fd9e5e0a73ba9c1f15777d245cb_1.udsmesh"/>
+		<Size a="216.593307" x="21.768829" y="0.0" z="65.568192"/>
+		<LightmapUV value="-1"/>
+		<Hash value="58aa37a366cfafe5b59e5b34e97953ff"/>
+		<Material id="8639" name="Stacy_Skin-Gdeede330567b2d504bc6ba933c8688e1"/>
+		<Material id="8644" name="Stacy_Pants-G75efc4e368b9b6c1b24eb350f5739533"/>
+		<Material id="8642" name="Stacy_Shoe_Laces_Sole-Gea512b7701f33f51a72cf58ab4aa535f"/>
+		<Material id="8641" name="Stacy_Shoe-G4f47d0c19ffbbdca5eadfb4ac9227380"/>
+		<Material id="8640" name="Stacy_Shirt-G91ca0126f5feb34418a34f1fe6a259e1"/>
+		<Material id="8643" name="Stacy_Hair-G052da2f9d4aeb5d870955ee5f50e8ada"/>
+	</StaticMesh>
+	<StaticMesh name="Mf1d0f1885cb3c4086498e51b543fc097_1" label="Sang">
+		<file path="TVandChair_Assets/Mf1d0f1885cb3c4086498e51b543fc097_1.udsmesh"/>
+		<Size a="525.02594" x="18.109709" y="0.0" z="69.242981"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0931ba744451b6ed1283c3da61cdb595"/>
+		<Material id="8651" name="jean_blue-G3f00d0d2023bcb00e05b14957edbb71a"/>
+		<Material id="8646" name="_LightGray_-G3ba7f152ee02fcf2fc050d696fc9691a"/>
+		<Material id="8649" name="_DimGray_-G70f008275dfdf7fb8b4fa757ec18b5d0"/>
+		<Material id="8648" name="_Charcoal_-G1e0b77a3e959d4cd8df22e8d788f68fc"/>
+		<Material id="8647" name="_Beige_2-G41c08efacd634277dfdf6fd907742cb0"/>
+		<Material id="8652" name="_1-Gcf2d983d4b7379c4730a55c2942f845e"/>
+		<Material id="8650" name="_Burnt_Umber_1-G051752c8923e615128d94e0ac35c9ab3"/>
+	</StaticMesh>
+	<StaticMesh name="M2cb05e4bb7830be982f0922fed86b4cd_1" label="Component">
+		<file path="TVandChair_Assets/M2cb05e4bb7830be982f0922fed86b4cd_1.udsmesh"/>
+		<Size a="105348.476563" x="103.875" y="201.375" z="71.9375"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2bac921ad58b85082037330808ec5715"/>
+		<Material id="8656" name="Tile_Mosaic_Multi-L1ff0d99a217fb53d751ea8f7d80827e2"/>
+		<Material id="8663" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+		<Material id="8661" name="Color_009-G5b4467b76700e0fa86070f5ce8878854"/>
+		<Material id="8660" name="Color_A21-Gd310584edc0c4fad0b8a68654f56d640"/>
+		<Material id="8665" name="Color_004-G185f76c80e5eddcce3d5a8e7a6416f2c"/>
+		<Material id="8664" name="Color_007-Gb5a79d5ddaa7dda7f4ea297fdf532efe"/>
+		<Material id="8662" name="Color_005-G32cf04060c3fd4414a61e19f84267b65"/>
+		<Material id="8668" name="Color_E01-G4d43d5cebfb33202a0032b9243a0ffb7"/>
+		<Material id="8670" name="Color_I01-G0dc7758f76c85dafba3b86fc0dd02a4a"/>
+		<Material id="8669" name="Color_G07-G752ca2928051e4c03e0c605989378d2a"/>
+		<Material id="8672" name="Color_A22-G05018301d438098b2501fa3c1831d891"/>
+		<Material id="8673" name="0004_HotPink-G3374fbca27b4f16159940f6c7d7ca940"/>
+		<Material id="8671" name="Color_B01-G94b6fc9fb2c1193b01c336230577aa36"/>
+		<Material id="8658" name="Carpet_Diamond_Olive-La907ada0184177bdda8d41d0c0c53761"/>
+		<Material id="8654" name="Carpet_Pattern_LeafSquares_Tan-Le81fa9478e98fabde81a70618e019ad0"/>
+		<Material id="8666" name="Fencing_Chain_Link-L4deeedc69080e8c3c6eca5375b81a4bd"/>
+	</StaticMesh>
+	<StaticMesh name="M2cb05e4bb7830be982f0922fed86b4cd_2" label="Component">
+		<file path="TVandChair_Assets/M2cb05e4bb7830be982f0922fed86b4cd_2.udsmesh"/>
+		<Size a="534.600464" x="28.124996" y="9.0" z="2.0625"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a7000733c7044fd1e4f1cc23c1c14a2a"/>
+		<Material id="8663" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+	</StaticMesh>
+	<StaticMesh name="M2cb05e4bb7830be982f0922fed86b4cd_3" label="Component">
+		<file path="TVandChair_Assets/M2cb05e4bb7830be982f0922fed86b4cd_3.udsmesh"/>
+		<Size a="1620.049927" x="27.75" y="20.9375" z="0.875"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2b5c0e83f11807d6be9f6f0721387f92"/>
+		<Material id="8663" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+		<Material id="8661" name="Color_009-G5b4467b76700e0fa86070f5ce8878854"/>
+	</StaticMesh>
+	<StaticMesh name="M2cb05e4bb7830be982f0922fed86b4cd_4" label="Component">
+		<file path="TVandChair_Assets/M2cb05e4bb7830be982f0922fed86b4cd_4.udsmesh"/>
+		<Size a="42.821404" x="1.4375" y="7.0" z="0.5625"/>
+		<LightmapUV value="-1"/>
+		<Hash value="be1aa765bbdc82ba48098c2e106a96f8"/>
+		<Material id="8676" name="Color_A23-Gf2a1ccc3da0ec99928ee6c6b670da12b"/>
+		<Material id="8661" name="Color_009-G5b4467b76700e0fa86070f5ce8878854"/>
+		<Material id="8671" name="Color_B01-G94b6fc9fb2c1193b01c336230577aa36"/>
+		<Material id="8675" name="Color_A03-G7f64781e7eb189e9d55d1ed3eeb7450d"/>
+		<Material id="8674" name="Color_A01-Ge481146e2268cc0597d8b9cb6c33961d"/>
+	</StaticMesh>
+	<ActorMesh name="SU_11163_1" label="Stacy" layer="Layer0">
+		<mesh name="M16f86fd9e5e0a73ba9c1f15777d245cb_1"/>
+		<Transform tx="-46.990002" ty="35.560001" tz="0.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.289802" qw="0.957087" qhex="0000000000000080EB6094BEA103753F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.0fxLClcCKlGuztRQwoPXbx" />
+		<tag value="SU.PATH.0.11163" />
+		<tag value="SU.BEHAVIOR.FaceCamera" />
+	</ActorMesh>
+	<Actor name="SU_13558" label="Component" layer="Layer0">
+		<Transform tx="112.675362" ty="-103.338249" tz="0.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.2ka76y9Oj2CeAF9NRH6fc3" />
+		<tag value="SU.PATH.0.13558" />
+		<children visible="true"  selector="false" selection="-1">
+			<ActorMesh name="SU_13558_12012_1" label="Sang" layer="Layer0">
+				<mesh name="Mf1d0f1885cb3c4086498e51b543fc097_1"/>
+				<material id="0" name="White-G25a81701fbfa4a1efdf660a950c1d006"/>
+				<Transform tx="59.342884" ty="-64.245857" tz="0.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.289802" qw="0.957087" qhex="0000000000000080EB6094BEA103753F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.2DnRMW5VFoIRt_Ubb1DnsS" />
+				<tag value="SU.PATH.0.13558.12012" />
+				<tag value="SU.BEHAVIOR.FaceCamera" />
+			</ActorMesh>
+			<ActorMesh name="SU_13558_1" label="Component" layer="Layer0">
+				<mesh name="M2cb05e4bb7830be982f0922fed86b4cd_1"/>
+				<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+				<Transform tx="112.675362" ty="-103.338249" tz="0.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.2ka76y9Oj2CeAF9NRH6fc3" />
+				<tag value="SU.PATH.0.13558" />
+			</ActorMesh>
+			<ActorMesh name="SU_13558_2" label="Component" layer="Layer0">
+				<mesh name="M2cb05e4bb7830be982f0922fed86b4cd_2"/>
+				<Transform tx="112.675362" ty="-103.338249" tz="0.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.2ka76y9Oj2CeAF9NRH6fc3" />
+				<tag value="SU.PATH.0.13558" />
+			</ActorMesh>
+			<ActorMesh name="SU_13558_3" label="Component" layer="Layer0">
+				<mesh name="M2cb05e4bb7830be982f0922fed86b4cd_3"/>
+				<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+				<Transform tx="112.675362" ty="-103.338249" tz="0.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.2ka76y9Oj2CeAF9NRH6fc3" />
+				<tag value="SU.PATH.0.13558" />
+			</ActorMesh>
+			<ActorMesh name="SU_13558_4" label="Component" layer="Layer0">
+				<mesh name="M2cb05e4bb7830be982f0922fed86b4cd_4"/>
+				<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+				<Transform tx="112.675362" ty="-103.338249" tz="0.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.2ka76y9Oj2CeAF9NRH6fc3" />
+				<tag value="SU.PATH.0.13558" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Texture name="Carpet_Pattern_LeafSquares_Tan" texturemode="0" rgbcurve="-1.000000" file="TVandChair_Assets/Carpet_Pattern_LeafSquares_Tan.jpg">
+		<Hash value="15195079293d158323266765226fb7e2"/>
+	</Texture>
+	<Texture name="Tile_Mosaic_Multi" texturemode="0" rgbcurve="-1.000000" file="TVandChair_Assets/Tile_Mosaic_Multi.jpg">
+		<Hash value="d243cc7324affc423e2f16a518f7c3c8"/>
+	</Texture>
+	<Texture name="Carpet_Diamond_Olive" texturemode="0" rgbcurve="-1.000000" file="TVandChair_Assets/Carpet_Diamond_Olive.jpg">
+		<Hash value="10805724dd998d48f27b893e5267b86d"/>
+	</Texture>
+	<Texture name="Fencing_Chain_Link" texturemode="0" rgbcurve="-1.000000" file="TVandChair_Assets/Fencing_Chain_Link.png">
+		<Hash value="3a2b58f7e7cce77db9e195ce4eb97f10"/>
+	</Texture>
+	<MasterMaterial name="Default-G7a1920d61156abc05a60135aefe8bc67"  label="Default" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.215861,G=0.215861,B=0.215861,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Stacy_Skin-Gdeede330567b2d504bc6ba933c8688e1"  label="Stacy_Skin" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.644480,G=0.456411,B=0.262251,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Stacy_Shirt-G91ca0126f5feb34418a34f1fe6a259e1"  label="Stacy_Shirt" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.132868,G=0.132868,B=0.132868,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Stacy_Shoe-G4f47d0c19ffbbdca5eadfb4ac9227380"  label="Stacy_Shoe" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.791298,G=0.024158,B=0.025187,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Stacy_Shoe_Laces_Sole-Gea512b7701f33f51a72cf58ab4aa535f"  label="Stacy_Shoe_Laces_Sole" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.760525,G=0.760525,B=0.760525,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Stacy_Hair-G052da2f9d4aeb5d870955ee5f50e8ada"  label="Stacy_Hair" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.017642,G=0.006512,B=0.002125,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Stacy_Pants-G75efc4e368b9b6c1b24eb350f5739533"  label="Stacy_Pants" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.021219,G=0.042311,B=0.111932,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="_LightGray_-G3ba7f152ee02fcf2fc050d696fc9691a"  label="&lt;LightGray&gt;" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.396755,G=0.396755,B=0.396755,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="_Beige_2-G41c08efacd634277dfdf6fd907742cb0"  label="&lt;Beige&gt;2" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.401978,G=0.313989,B=0.174647,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="_Charcoal_-G1e0b77a3e959d4cd8df22e8d788f68fc"  label="&lt;Charcoal&gt;" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.016807,G=0.016807,B=0.016807,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="_DimGray_-G70f008275dfdf7fb8b4fa757ec18b5d0"  label="&lt;DimGray&gt;" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.141263,G=0.141263,B=0.141263,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="_Burnt_Umber_1-G051752c8923e615128d94e0ac35c9ab3"  label="&lt;Burnt_Umber&gt;1" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.002125,G=0.000911,B=0.000607,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="jean_blue-G3f00d0d2023bcb00e05b14957edbb71a"  label="jean_blue" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.017642,G=0.028426,B=0.054480,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="_1-Gcf2d983d4b7379c4730a55c2942f845e"  label="*1" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.752942,G=0.752942,B=0.577580,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="White-G25a81701fbfa4a1efdf660a950c1d006"  label="White" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Carpet_Pattern_LeafSquares_Tan-Le81fa9478e98fabde81a70618e019ad0"  label="Carpet_Pattern_LeafSquares_Tan" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.462077,G=0.323143,B=0.205079,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="Carpet_Pattern_LeafSquares_Tan.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=1.0,G=-1.0,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Tile_Mosaic_Multi-L1ff0d99a217fb53d751ea8f7d80827e2"  label="Tile_Mosaic_Multi" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.242281,G=0.135633,B=0.116971,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="Tile_Mosaic_Multi.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=1.0,G=-1.0,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Carpet_Diamond_Olive-La907ada0184177bdda8d41d0c0c53761"  label="Carpet_Diamond_Olive" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.095307,G=0.074214,B=0.046665,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="Carpet_Diamond_Olive.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=1.0,G=-1.0,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_A21-Gd310584edc0c4fad0b8a68654f56d640"  label="Color_A21" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.033105,G=0.000000,B=0.000000,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_009-G5b4467b76700e0fa86070f5ce8878854"  label="Color_009" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_005-G32cf04060c3fd4414a61e19f84267b65"  label="Color_005" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.168269,G=0.168269,B=0.168269,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"  label="Color_008" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.012983,G=0.012983,B=0.012983,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_007-Gb5a79d5ddaa7dda7f4ea297fdf532efe"  label="Color_007" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.042311,G=0.042311,B=0.042311,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_004-G185f76c80e5eddcce3d5a8e7a6416f2c"  label="Color_004" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.270498,G=0.270498,B=0.270498,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Fencing_Chain_Link-L4deeedc69080e8c3c6eca5375b81a4bd"  label="Fencing_Chain_Link" Type="2" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.791298,G=0.783538,B=0.783538,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="Fencing_Chain_Link.png"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=1.0,G=-1.0,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_E01-G4d43d5cebfb33202a0032b9243a0ffb7"  label="Color_E01" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=1.000000,G=1.000000,B=0.000000,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_G07-G752ca2928051e4c03e0c605989378d2a"  label="Color_G07" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.021219,G=0.603827,B=0.021219,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_I01-G0dc7758f76c85dafba3b86fc0dd02a4a"  label="Color_I01" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.000000,G=0.000000,B=1.000000,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_B01-G94b6fc9fb2c1193b01c336230577aa36"  label="Color_B01" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=1.000000,G=0.049707,B=0.000000,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_A22-G05018301d438098b2501fa3c1831d891"  label="Color_A22" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.033105,G=0.003035,B=0.003035,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="0004_HotPink-G3374fbca27b4f16159940f6c7d7ca940"  label="0004_HotPink" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=1.000000,G=0.141263,B=0.456411,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_A01-Ge481146e2268cc0597d8b9cb6c33961d"  label="Color_A01" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=1.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_A03-G7f64781e7eb189e9d55d1ed3eeb7450d"  label="Color_A03" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=1.000000,G=0.130136,B=0.130136,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_A23-Gf2a1ccc3da0ec99928ee6c6b670da12b"  label="Color_A23" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.033105,G=0.006995,B=0.006995,A=1.000000)"/>
+	</MasterMaterial>
+	<Export Duration="0"/>
+</DatasmithUnrealScene>

@@ -1,0 +1,96 @@
+<DatasmithUnrealScene>
+	<Version>0.21</Version>
+	<SDKVersion>4.21E1</SDKVersion>
+	<Host>SketchUp</Host>
+	<Application Vendor="Trimble Inc." ProductName="SketchUp Pro" ProductVersion="2018"/>
+	<User ID="32fc6fe84632f0b399fcd5a68aad6c1a" OS="Windows 8.1"/>
+	<StaticMesh name="M466e9639c2789a92a8f71a46b1f26080_1" label="Component_6">
+		<file path="lamp_Assets/M466e9639c2789a92a8f71a46b1f26080_1.udsmesh"/>
+		<Size a="156.95546" x="11.968504" y="11.968504" z="63.444881"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b72b015884631f1fce1239d5e218631d"/>
+		<Material id="449798" name="Color_007-Gb5a79d5ddaa7dda7f4ea297fdf532efe"/>
+		<Material id="449799" name="Color_C04-G84958faefa811d9d7c3403fcdfd3cdcd"/>
+		<Material id="449797" name="Color_009-G5b4467b76700e0fa86070f5ce8878854"/>
+		<Material id="449796" name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"/>
+	</StaticMesh>
+	<StaticMesh name="M466e9639c2789a92a8f71a46b1f26080_2" label="Component_6">
+		<file path="lamp_Assets/M466e9639c2789a92a8f71a46b1f26080_2.udsmesh"/>
+		<Size a="315.490601" x="10.629921" y="10.629921" z="10.590553"/>
+		<LightmapUV value="-1"/>
+		<Hash value="08c9a979aae73fea6f92a7c76e611074"/>
+		<Material id="449800" name="Color_D05-G2d8df79073fafe7c8f56341824cc3ed1"/>
+	</StaticMesh>
+	<StaticMesh name="M466e9639c2789a92a8f71a46b1f26080_3" label="Component_6">
+		<file path="lamp_Assets/M466e9639c2789a92a8f71a46b1f26080_3.udsmesh"/>
+		<Size a="0.13338" x="0.702479" y="0.702883" z="0.089863"/>
+		<LightmapUV value="-1"/>
+		<Hash value="bda76603ff06f7db526248bc90019309"/>
+	</StaticMesh>
+	<StaticMesh name="M466e9639c2789a92a8f71a46b1f26080_4" label="Component_6">
+		<file path="lamp_Assets/M466e9639c2789a92a8f71a46b1f26080_4.udsmesh"/>
+		<Size a="5.485083" x="1.293829" y="1.294537" z="2.887386"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d77f2847cc569d7eaddfcd54fac2c08a"/>
+		<Material id="449798" name="Color_007-Gb5a79d5ddaa7dda7f4ea297fdf532efe"/>
+		<Material id="449799" name="Color_C04-G84958faefa811d9d7c3403fcdfd3cdcd"/>
+	</StaticMesh>
+	<Actor name="SU_81000" label="Component_6" layer="Layer0">
+		<Transform tx="0.0" ty="0.0" tz="0.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.00robkMKfAgRvSgKqPUqys" />
+		<tag value="SU.PATH.0.81000" />
+		<children visible="true"  selector="false" selection="-1">
+			<ActorMesh name="SU_81000_1" label="Component_6" layer="Layer0">
+				<mesh name="M466e9639c2789a92a8f71a46b1f26080_1"/>
+				<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.00robkMKfAgRvSgKqPUqys" />
+				<tag value="SU.PATH.0.81000" />
+			</ActorMesh>
+			<ActorMesh name="SU_81000_2" label="Component_6" layer="Layer0">
+				<mesh name="M466e9639c2789a92a8f71a46b1f26080_2"/>
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.00robkMKfAgRvSgKqPUqys" />
+				<tag value="SU.PATH.0.81000" />
+			</ActorMesh>
+			<ActorMesh name="SU_81000_3" label="Component_6" layer="Layer0">
+				<mesh name="M466e9639c2789a92a8f71a46b1f26080_3"/>
+				<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.00robkMKfAgRvSgKqPUqys" />
+				<tag value="SU.PATH.0.81000" />
+			</ActorMesh>
+			<ActorMesh name="SU_81000_4" label="Component_6" layer="Layer0">
+				<mesh name="M466e9639c2789a92a8f71a46b1f26080_4"/>
+				<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+				<Transform tx="0.0" ty="0.0" tz="0.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.00robkMKfAgRvSgKqPUqys" />
+				<tag value="SU.PATH.0.81000" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<MasterMaterial name="Default-G7a1920d61156abc05a60135aefe8bc67"  label="Default" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.215861,G=0.215861,B=0.215861,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_008-Gc44b67fad42afa287b8fba8cbffb084b"  label="Color_008" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.012983,G=0.012983,B=0.012983,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_009-G5b4467b76700e0fa86070f5ce8878854"  label="Color_009" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_007-Gb5a79d5ddaa7dda7f4ea297fdf532efe"  label="Color_007" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.042311,G=0.042311,B=0.042311,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_C04-G84958faefa811d9d7c3403fcdfd3cdcd"  label="Color_C04" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=1.000000,G=0.603827,B=0.318547,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_D05-G2d8df79073fafe7c8f56341824cc3ed1"  label="Color_D05" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=1.000000,G=0.887923,B=0.603827,A=1.000000)"/>
+	</MasterMaterial>
+	<Export Duration="0"/>
+</DatasmithUnrealScene>
