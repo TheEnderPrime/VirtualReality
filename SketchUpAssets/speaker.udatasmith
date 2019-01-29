@@ -1,0 +1,371 @@
+<DatasmithUnrealScene>
+	<Version>0.21</Version>
+	<SDKVersion>4.21E1</SDKVersion>
+	<Host>SketchUp</Host>
+	<Application Vendor="Trimble Inc." ProductName="SketchUp Pro" ProductVersion="2018"/>
+	<User ID="52e5064a4510ea397a0a03b048f98cce" OS="Windows 8.1"/>
+	<StaticMesh name="M7fb76aae8332188f8e93a1437bd49666_1" label="skeD412">
+		<file path="speaker_Assets/M7fb76aae8332188f8e93a1437bd49666_1.udsmesh"/>
+		<Size a="1764306.0" x="553.78595" y="1170.432129" z="1170.432373"/>
+		<LightmapUV value="-1"/>
+		<Hash value="b2b078bd064a4849482239c9d63bdcf0"/>
+		<Material id="1305888" name="Color_004-G185f76c80e5eddcce3d5a8e7a6416f2c"/>
+		<Material id="1305887" name="_Gray6_-G37f30ee1b20edb56be75072e7cbb7020"/>
+		<Material id="1305885" name="_Charcoal_-G1e0b77a3e959d4cd8df22e8d788f68fc"/>
+	</StaticMesh>
+	<StaticMesh name="M7fb76aae8332188f8e93a1437bd49666_2" label="skeD412">
+		<file path="speaker_Assets/M7fb76aae8332188f8e93a1437bd49666_2.udsmesh"/>
+		<Size a="635231.1875" x="90.495056" y="1166.632568" z="1168.040283"/>
+		<LightmapUV value="-1"/>
+		<Hash value="839dab6ca92633f220fcd37ef53f4f9e"/>
+		<Material id="1305890" name="0045_Goldenrod-G50a19fa29d08d7c66238f57f39cbf27f"/>
+	</StaticMesh>
+	<StaticMesh name="M7fb76aae8332188f8e93a1437bd49666_3" label="skeD412">
+		<file path="speaker_Assets/M7fb76aae8332188f8e93a1437bd49666_3.udsmesh"/>
+		<Size a="17912058.0" x="634.730225" y="2282.700439" z="2286.5"/>
+		<LightmapUV value="-1"/>
+		<Hash value="992a480259d1b0510de7c39199ac83f2"/>
+		<Material id="1305889" name="Color_007-Gb5a79d5ddaa7dda7f4ea297fdf532efe"/>
+		<Material id="1305887" name="_Gray6_-G37f30ee1b20edb56be75072e7cbb7020"/>
+		<Material id="1305885" name="_Charcoal_-G1e0b77a3e959d4cd8df22e8d788f68fc"/>
+		<Material id="1305892" name="0011_Seashell-Ga5992f841b8de17342a7394a5cc7135e"/>
+		<Material id="1305888" name="Color_004-G185f76c80e5eddcce3d5a8e7a6416f2c"/>
+		<Material id="1305890" name="0045_Goldenrod-G50a19fa29d08d7c66238f57f39cbf27f"/>
+		<Material id="1305891" name="0020_Red-G8b3243f5a86c59a439a3d7e31bd5ea30"/>
+		<Material id="1305886" name="_Black_-Gdf084f63faa1eab2aecf0d3bdc6e5df8"/>
+	</StaticMesh>
+	<StaticMesh name="M2cb05e4bb7830be982f0922fed86b4cd_1" label="Component">
+		<file path="speaker_Assets/M2cb05e4bb7830be982f0922fed86b4cd_1.udsmesh"/>
+		<Size a="3760.208252" x="12.6875" y="20.4375" z="77.5625"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1744539138ec5d4cb55ce6776635b62e"/>
+		<Material id="1305893" name="Carpet_Plush_Charcoal-L2244f76eea189abdf3bd33dfea08b778"/>
+		<Material id="1305896" name="Wood_Cherry_Original-L2b3ae6dd876ea1cab79faf8c5af7502d"/>
+		<Material id="1305895" name="Translucent_Glass_Gray-Gafdee370f5dfd8de3ab8a11659f4ff79"/>
+	</StaticMesh>
+	<Actor name="SU_36988" label="Component" layer="Layer0">
+		<Transform tx="13.81063" ty="-25.105341" tz="0.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.3dawmT7l58GA38XhQAPLTQ" />
+		<tag value="SU.PATH.0.36988" />
+		<children visible="true"  selector="false" selection="-1">
+			<Actor name="SU_36988_36782" label="Rockford_Fosgate_12__Subwoofer" layer="Layer0">
+				<Transform tx="3.128325" ty="-1.1265" tz="83.851318" sx="0.020293" sy="0.020293" sz="0.020293" qx="0.0" qy="-0.707107" qz="0.0" qw="0.707107" qhex="00000000F20435BF00000080F204353F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.13bv8REqXD0xGcwEGOgsNY" />
+				<tag value="SU.PATH.0.36988.36782" />
+				<children visible="true"  selector="false" selection="-1">
+					<Actor name="SU_36988_36782_36086" label="skeD412" layer="Layer0">
+						<Transform tx="-17.370714" ty="-25.200726" tz="139.702377" sx="0.020293" sy="0.020293" sz="0.020293" qx="0.0" qy="-0.0" qz="0.0" qw="1.0" qhex="00000000F6EC5EA5000000800000803F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.0Sq_SXTa19kQ043ugFgWbN" />
+						<tag value="SU.PATH.0.36988.36782.36086" />
+						<children visible="true"  selector="false" selection="-1">
+							<ActorMesh name="SU_36988_36782_36086_1" label="skeD412" layer="Layer0">
+								<mesh name="M7fb76aae8332188f8e93a1437bd49666_1"/>
+								<Transform tx="-17.370714" ty="-25.200726" tz="139.702377" sx="0.020293" sy="0.020293" sz="0.020293" qx="0.0" qy="-0.0" qz="0.0" qw="1.0" qhex="00000000F6EC5EA5000000800000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.0Sq_SXTa19kQ043ugFgWbN" />
+								<tag value="SU.PATH.0.36988.36782.36086" />
+							</ActorMesh>
+							<ActorMesh name="SU_36988_36782_36086_2" label="skeD412" layer="Layer0">
+								<mesh name="M7fb76aae8332188f8e93a1437bd49666_2"/>
+								<Transform tx="-17.370714" ty="-25.200726" tz="139.702377" sx="0.020293" sy="0.020293" sz="0.020293" qx="0.0" qy="-0.0" qz="0.0" qw="1.0" qhex="00000000F6EC5EA5000000800000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.0Sq_SXTa19kQ043ugFgWbN" />
+								<tag value="SU.PATH.0.36988.36782.36086" />
+							</ActorMesh>
+							<ActorMesh name="SU_36988_36782_36086_3" label="skeD412" layer="Layer0">
+								<mesh name="M7fb76aae8332188f8e93a1437bd49666_3"/>
+								<Transform tx="-17.370714" ty="-25.200726" tz="139.702377" sx="0.020293" sy="0.020293" sz="0.020293" qx="0.0" qy="-0.0" qz="0.0" qw="1.0" qhex="00000000F6EC5EA5000000800000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.0Sq_SXTa19kQ043ugFgWbN" />
+								<tag value="SU.PATH.0.36988.36782.36086" />
+							</ActorMesh>
+						</children>
+					</Actor>
+				</children>
+			</Actor>
+			<Actor name="SU_36988_36783" label="Rockford_Fosgate_12__Subwoofer" layer="Layer0">
+				<Transform tx="3.128325" ty="-1.1265" tz="33.686321" sx="0.020293" sy="0.020293" sz="0.020293" qx="0.0" qy="-0.707107" qz="0.0" qw="0.707107" qhex="00000000F20435BF00000080F204353F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.13bv8REqXD0xGcwEGOgsNY" />
+				<tag value="SU.PATH.0.36988.36783" />
+				<children visible="true"  selector="false" selection="-1">
+					<Actor name="SU_36988_36783_36086" label="skeD412" layer="Layer0">
+						<Transform tx="-17.370714" ty="-25.200726" tz="89.537376" sx="0.020293" sy="0.020293" sz="0.020293" qx="0.0" qy="-0.0" qz="0.0" qw="1.0" qhex="00000000F6EC5EA5000000800000803F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.0Sq_SXTa19kQ043ugFgWbN" />
+						<tag value="SU.PATH.0.36988.36783.36086" />
+						<children visible="true"  selector="false" selection="-1">
+							<ActorMesh name="SU_36988_36783_36086_1" label="skeD412" layer="Layer0">
+								<mesh name="M7fb76aae8332188f8e93a1437bd49666_1"/>
+								<Transform tx="-17.370714" ty="-25.200726" tz="89.537376" sx="0.020293" sy="0.020293" sz="0.020293" qx="0.0" qy="-0.0" qz="0.0" qw="1.0" qhex="00000000F6EC5EA5000000800000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.0Sq_SXTa19kQ043ugFgWbN" />
+								<tag value="SU.PATH.0.36988.36783.36086" />
+							</ActorMesh>
+							<ActorMesh name="SU_36988_36783_36086_2" label="skeD412" layer="Layer0">
+								<mesh name="M7fb76aae8332188f8e93a1437bd49666_2"/>
+								<Transform tx="-17.370714" ty="-25.200726" tz="89.537376" sx="0.020293" sy="0.020293" sz="0.020293" qx="0.0" qy="-0.0" qz="0.0" qw="1.0" qhex="00000000F6EC5EA5000000800000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.0Sq_SXTa19kQ043ugFgWbN" />
+								<tag value="SU.PATH.0.36988.36783.36086" />
+							</ActorMesh>
+							<ActorMesh name="SU_36988_36783_36086_3" label="skeD412" layer="Layer0">
+								<mesh name="M7fb76aae8332188f8e93a1437bd49666_3"/>
+								<Transform tx="-17.370714" ty="-25.200726" tz="89.537376" sx="0.020293" sy="0.020293" sz="0.020293" qx="0.0" qy="-0.0" qz="0.0" qw="1.0" qhex="00000000F6EC5EA5000000800000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.0Sq_SXTa19kQ043ugFgWbN" />
+								<tag value="SU.PATH.0.36988.36783.36086" />
+							</ActorMesh>
+						</children>
+					</Actor>
+				</children>
+			</Actor>
+			<Actor name="SU_36988_36784" label="Rockford_Fosgate_12__Subwoofer" layer="Layer0">
+				<Transform tx="0.638631" ty="-1.573485" tz="130.063339" sx="0.017308" sy="0.017308" sz="0.017308" qx="0.0" qy="-0.707107" qz="0.0" qw="0.707107" qhex="00000000F20435BF00000080F204353F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.13bv8REqXD0xGcwEGOgsNY" />
+				<tag value="SU.PATH.0.36988.36784" />
+				<children visible="true"  selector="false" selection="-1">
+					<Actor name="SU_36988_36784_36086" label="skeD412" layer="Layer0">
+						<Transform tx="-16.845123" ty="-22.106537" tz="177.699051" sx="0.017308" sy="0.017308" sz="0.017308" qx="0.0" qy="-0.0" qz="0.0" qw="1.0" qhex="00000000F5EC5EA5000000800000803F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.0Sq_SXTa19kQ043ugFgWbN" />
+						<tag value="SU.PATH.0.36988.36784.36086" />
+						<children visible="true"  selector="false" selection="-1">
+							<ActorMesh name="SU_36988_36784_36086_1" label="skeD412" layer="Layer0">
+								<mesh name="M7fb76aae8332188f8e93a1437bd49666_1"/>
+								<Transform tx="-16.845123" ty="-22.106537" tz="177.699051" sx="0.017308" sy="0.017308" sz="0.017308" qx="0.0" qy="-0.0" qz="0.0" qw="1.0" qhex="00000000F5EC5EA5000000800000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.0Sq_SXTa19kQ043ugFgWbN" />
+								<tag value="SU.PATH.0.36988.36784.36086" />
+							</ActorMesh>
+							<ActorMesh name="SU_36988_36784_36086_2" label="skeD412" layer="Layer0">
+								<mesh name="M7fb76aae8332188f8e93a1437bd49666_2"/>
+								<Transform tx="-16.845123" ty="-22.106537" tz="177.699051" sx="0.017308" sy="0.017308" sz="0.017308" qx="0.0" qy="-0.0" qz="0.0" qw="1.0" qhex="00000000F5EC5EA5000000800000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.0Sq_SXTa19kQ043ugFgWbN" />
+								<tag value="SU.PATH.0.36988.36784.36086" />
+							</ActorMesh>
+							<ActorMesh name="SU_36988_36784_36086_3" label="skeD412" layer="Layer0">
+								<mesh name="M7fb76aae8332188f8e93a1437bd49666_3"/>
+								<Transform tx="-16.845123" ty="-22.106537" tz="177.699051" sx="0.017308" sy="0.017308" sz="0.017308" qx="0.0" qy="-0.0" qz="0.0" qw="1.0" qhex="00000000F5EC5EA5000000800000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.0Sq_SXTa19kQ043ugFgWbN" />
+								<tag value="SU.PATH.0.36988.36784.36086" />
+							</ActorMesh>
+						</children>
+					</Actor>
+				</children>
+			</Actor>
+			<Actor name="SU_36988_36785" label="Rockford_Fosgate_12__Subwoofer" layer="Layer0">
+				<Transform tx="-9.800611" ty="-13.092694" tz="157.605011" sx="0.00681" sy="0.00681" sz="0.00681" qx="0.0" qy="-0.707107" qz="0.0" qw="0.707107" qhex="00000000F20435BF00000080F204353F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.13bv8REqXD0xGcwEGOgsNY" />
+				<tag value="SU.PATH.0.36988.36785" />
+				<children visible="true"  selector="false" selection="-1">
+					<Actor name="SU_36988_36785_36086" label="skeD412" layer="Layer0">
+						<Transform tx="-16.679762" ty="-21.171619" tz="176.347733" sx="0.00681" sy="0.00681" sz="0.00681" qx="0.0" qy="-0.0" qz="0.0" qw="1.0" qhex="00000000F6EC5EA5000000800000803F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.0Sq_SXTa19kQ043ugFgWbN" />
+						<tag value="SU.PATH.0.36988.36785.36086" />
+						<children visible="true"  selector="false" selection="-1">
+							<ActorMesh name="SU_36988_36785_36086_1" label="skeD412" layer="Layer0">
+								<mesh name="M7fb76aae8332188f8e93a1437bd49666_1"/>
+								<Transform tx="-16.679762" ty="-21.171619" tz="176.347733" sx="0.00681" sy="0.00681" sz="0.00681" qx="0.0" qy="-0.0" qz="0.0" qw="1.0" qhex="00000000F6EC5EA5000000800000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.0Sq_SXTa19kQ043ugFgWbN" />
+								<tag value="SU.PATH.0.36988.36785.36086" />
+							</ActorMesh>
+							<ActorMesh name="SU_36988_36785_36086_2" label="skeD412" layer="Layer0">
+								<mesh name="M7fb76aae8332188f8e93a1437bd49666_2"/>
+								<Transform tx="-16.679762" ty="-21.171619" tz="176.347733" sx="0.00681" sy="0.00681" sz="0.00681" qx="0.0" qy="-0.0" qz="0.0" qw="1.0" qhex="00000000F6EC5EA5000000800000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.0Sq_SXTa19kQ043ugFgWbN" />
+								<tag value="SU.PATH.0.36988.36785.36086" />
+							</ActorMesh>
+							<ActorMesh name="SU_36988_36785_36086_3" label="skeD412" layer="Layer0">
+								<mesh name="M7fb76aae8332188f8e93a1437bd49666_3"/>
+								<Transform tx="-16.679762" ty="-21.171619" tz="176.347733" sx="0.00681" sy="0.00681" sz="0.00681" qx="0.0" qy="-0.0" qz="0.0" qw="1.0" qhex="00000000F6EC5EA5000000800000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.0Sq_SXTa19kQ043ugFgWbN" />
+								<tag value="SU.PATH.0.36988.36785.36086" />
+							</ActorMesh>
+						</children>
+					</Actor>
+				</children>
+			</Actor>
+			<Actor name="SU_36988_36786" label="Rockford_Fosgate_12__Subwoofer" layer="Layer0">
+				<Transform tx="-9.800611" ty="-13.092694" tz="174.43251" sx="0.00681" sy="0.00681" sz="0.00681" qx="0.0" qy="-0.707107" qz="0.0" qw="0.707107" qhex="00000000F20435BF00000080F204353F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.13bv8REqXD0xGcwEGOgsNY" />
+				<tag value="SU.PATH.0.36988.36786" />
+				<children visible="true"  selector="false" selection="-1">
+					<Actor name="SU_36988_36786_36086" label="skeD412" layer="Layer0">
+						<Transform tx="-16.679762" ty="-21.171619" tz="193.175232" sx="0.00681" sy="0.00681" sz="0.00681" qx="0.0" qy="-0.0" qz="0.0" qw="1.0" qhex="00000000F6EC5EA5000000800000803F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.0Sq_SXTa19kQ043ugFgWbN" />
+						<tag value="SU.PATH.0.36988.36786.36086" />
+						<children visible="true"  selector="false" selection="-1">
+							<ActorMesh name="SU_36988_36786_36086_1" label="skeD412" layer="Layer0">
+								<mesh name="M7fb76aae8332188f8e93a1437bd49666_1"/>
+								<Transform tx="-16.679762" ty="-21.171619" tz="193.175232" sx="0.00681" sy="0.00681" sz="0.00681" qx="0.0" qy="-0.0" qz="0.0" qw="1.0" qhex="00000000F6EC5EA5000000800000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.0Sq_SXTa19kQ043ugFgWbN" />
+								<tag value="SU.PATH.0.36988.36786.36086" />
+							</ActorMesh>
+							<ActorMesh name="SU_36988_36786_36086_2" label="skeD412" layer="Layer0">
+								<mesh name="M7fb76aae8332188f8e93a1437bd49666_2"/>
+								<Transform tx="-16.679762" ty="-21.171619" tz="193.175232" sx="0.00681" sy="0.00681" sz="0.00681" qx="0.0" qy="-0.0" qz="0.0" qw="1.0" qhex="00000000F6EC5EA5000000800000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.0Sq_SXTa19kQ043ugFgWbN" />
+								<tag value="SU.PATH.0.36988.36786.36086" />
+							</ActorMesh>
+							<ActorMesh name="SU_36988_36786_36086_3" label="skeD412" layer="Layer0">
+								<mesh name="M7fb76aae8332188f8e93a1437bd49666_3"/>
+								<Transform tx="-16.679762" ty="-21.171619" tz="193.175232" sx="0.00681" sy="0.00681" sz="0.00681" qx="0.0" qy="-0.0" qz="0.0" qw="1.0" qhex="00000000F6EC5EA5000000800000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.0Sq_SXTa19kQ043ugFgWbN" />
+								<tag value="SU.PATH.0.36988.36786.36086" />
+							</ActorMesh>
+						</children>
+					</Actor>
+				</children>
+			</Actor>
+			<Actor name="SU_36988_36787" label="Rockford_Fosgate_12__Subwoofer" layer="Layer0">
+				<Transform tx="-9.800611" ty="10.878556" tz="157.763763" sx="0.00681" sy="0.00681" sz="0.00681" qx="0.0" qy="-0.707107" qz="0.0" qw="0.707107" qhex="00000000F20435BF00000080F204353F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.13bv8REqXD0xGcwEGOgsNY" />
+				<tag value="SU.PATH.0.36988.36787" />
+				<children visible="true"  selector="false" selection="-1">
+					<Actor name="SU_36988_36787_36086" label="skeD412" layer="Layer0">
+						<Transform tx="-16.679762" ty="2.79963" tz="176.506485" sx="0.00681" sy="0.00681" sz="0.00681" qx="0.0" qy="-0.0" qz="0.0" qw="1.0" qhex="00000000F6EC5EA5000000800000803F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.0Sq_SXTa19kQ043ugFgWbN" />
+						<tag value="SU.PATH.0.36988.36787.36086" />
+						<children visible="true"  selector="false" selection="-1">
+							<ActorMesh name="SU_36988_36787_36086_1" label="skeD412" layer="Layer0">
+								<mesh name="M7fb76aae8332188f8e93a1437bd49666_1"/>
+								<Transform tx="-16.679762" ty="2.79963" tz="176.506485" sx="0.00681" sy="0.00681" sz="0.00681" qx="0.0" qy="-0.0" qz="0.0" qw="1.0" qhex="00000000F6EC5EA5000000800000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.0Sq_SXTa19kQ043ugFgWbN" />
+								<tag value="SU.PATH.0.36988.36787.36086" />
+							</ActorMesh>
+							<ActorMesh name="SU_36988_36787_36086_2" label="skeD412" layer="Layer0">
+								<mesh name="M7fb76aae8332188f8e93a1437bd49666_2"/>
+								<Transform tx="-16.679762" ty="2.79963" tz="176.506485" sx="0.00681" sy="0.00681" sz="0.00681" qx="0.0" qy="-0.0" qz="0.0" qw="1.0" qhex="00000000F6EC5EA5000000800000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.0Sq_SXTa19kQ043ugFgWbN" />
+								<tag value="SU.PATH.0.36988.36787.36086" />
+							</ActorMesh>
+							<ActorMesh name="SU_36988_36787_36086_3" label="skeD412" layer="Layer0">
+								<mesh name="M7fb76aae8332188f8e93a1437bd49666_3"/>
+								<Transform tx="-16.679762" ty="2.79963" tz="176.506485" sx="0.00681" sy="0.00681" sz="0.00681" qx="0.0" qy="-0.0" qz="0.0" qw="1.0" qhex="00000000F6EC5EA5000000800000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.0Sq_SXTa19kQ043ugFgWbN" />
+								<tag value="SU.PATH.0.36988.36787.36086" />
+							</ActorMesh>
+						</children>
+					</Actor>
+				</children>
+			</Actor>
+			<Actor name="SU_36988_36893" label="Rockford_Fosgate_12__Subwoofer" layer="Layer0">
+				<Transform tx="-9.800611" ty="10.878556" tz="174.43251" sx="0.00681" sy="0.00681" sz="0.00681" qx="0.0" qy="-0.707107" qz="0.0" qw="0.707107" qhex="00000000F20435BF00000080F204353F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.13bv8REqXD0xGcwEGOgsNY" />
+				<tag value="SU.PATH.0.36988.36893" />
+				<children visible="true"  selector="false" selection="-1">
+					<Actor name="SU_36988_36893_36086" label="skeD412" layer="Layer0">
+						<Transform tx="-16.679762" ty="2.79963" tz="193.175232" sx="0.00681" sy="0.00681" sz="0.00681" qx="0.0" qy="-0.0" qz="0.0" qw="1.0" qhex="00000000F6EC5EA5000000800000803F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.0Sq_SXTa19kQ043ugFgWbN" />
+						<tag value="SU.PATH.0.36988.36893.36086" />
+						<children visible="true"  selector="false" selection="-1">
+							<ActorMesh name="SU_36988_36893_36086_1" label="skeD412" layer="Layer0">
+								<mesh name="M7fb76aae8332188f8e93a1437bd49666_1"/>
+								<Transform tx="-16.679762" ty="2.79963" tz="193.175232" sx="0.00681" sy="0.00681" sz="0.00681" qx="0.0" qy="-0.0" qz="0.0" qw="1.0" qhex="00000000F6EC5EA5000000800000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.0Sq_SXTa19kQ043ugFgWbN" />
+								<tag value="SU.PATH.0.36988.36893.36086" />
+							</ActorMesh>
+							<ActorMesh name="SU_36988_36893_36086_2" label="skeD412" layer="Layer0">
+								<mesh name="M7fb76aae8332188f8e93a1437bd49666_2"/>
+								<Transform tx="-16.679762" ty="2.79963" tz="193.175232" sx="0.00681" sy="0.00681" sz="0.00681" qx="0.0" qy="-0.0" qz="0.0" qw="1.0" qhex="00000000F6EC5EA5000000800000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.0Sq_SXTa19kQ043ugFgWbN" />
+								<tag value="SU.PATH.0.36988.36893.36086" />
+							</ActorMesh>
+							<ActorMesh name="SU_36988_36893_36086_3" label="skeD412" layer="Layer0">
+								<mesh name="M7fb76aae8332188f8e93a1437bd49666_3"/>
+								<Transform tx="-16.679762" ty="2.79963" tz="193.175232" sx="0.00681" sy="0.00681" sz="0.00681" qx="0.0" qy="-0.0" qz="0.0" qw="1.0" qhex="00000000F6EC5EA5000000800000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.0Sq_SXTa19kQ043ugFgWbN" />
+								<tag value="SU.PATH.0.36988.36893.36086" />
+							</ActorMesh>
+						</children>
+					</Actor>
+				</children>
+			</Actor>
+			<ActorMesh name="SU_36988_1" label="Component" layer="Layer0">
+				<mesh name="M2cb05e4bb7830be982f0922fed86b4cd_1"/>
+				<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+				<Transform tx="13.81063" ty="-25.105341" tz="0.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.3dawmT7l58GA38XhQAPLTQ" />
+				<tag value="SU.PATH.0.36988" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Texture name="Carpet_Plush_Charcoal" texturemode="0" rgbcurve="-1.000000" file="speaker_Assets/Carpet_Plush_Charcoal.jpg">
+		<Hash value="2ac63243a65570c7e2615c3fa7c09088"/>
+	</Texture>
+	<Texture name="Wood_Cherry_Original-Wood_Cherry_Original" texturemode="0" rgbcurve="-1.000000" file="speaker_Assets/Wood_Cherry_Original-Wood_Cherry_Original.jpg">
+		<Hash value="6cf69ce8282470e3c57adbcb79fd9402"/>
+	</Texture>
+	<MasterMaterial name="Default-G7a1920d61156abc05a60135aefe8bc67"  label="Default" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.215861,G=0.215861,B=0.215861,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="_Charcoal_-G1e0b77a3e959d4cd8df22e8d788f68fc"  label="&lt;Charcoal&gt;" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.016807,G=0.016807,B=0.016807,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="_Black_-Gdf084f63faa1eab2aecf0d3bdc6e5df8"  label="&lt;Black&gt;" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="_Gray6_-G37f30ee1b20edb56be75072e7cbb7020"  label="&lt;Gray6&gt;" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.116971,G=0.116971,B=0.116971,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_004-G185f76c80e5eddcce3d5a8e7a6416f2c"  label="Color_004" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.270498,G=0.270498,B=0.270498,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_007-Gb5a79d5ddaa7dda7f4ea297fdf532efe"  label="Color_007" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.042311,G=0.042311,B=0.042311,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="0045_Goldenrod-G50a19fa29d08d7c66238f57f39cbf27f"  label="0045_Goldenrod" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.701102,G=0.376262,B=0.014444,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="0020_Red-G8b3243f5a86c59a439a3d7e31bd5ea30"  label="0020_Red" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=1.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="0011_Seashell-Ga5992f841b8de17342a7394a5cc7135e"  label="0011_Seashell" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=1.000000,G=0.913099,B=0.854993,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Carpet_Plush_Charcoal-L2244f76eea189abdf3bd33dfea08b778"  label="Carpet_Plush_Charcoal" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.095307,G=0.095307,B=0.095307,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="Carpet_Plush_Charcoal.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=1.0,G=-1.0,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Translucent_Glass_Gray-Gafdee370f5dfd8de3ab8a11659f4ff79"  label="Translucent_Glass_Gray" Type="2" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.215861,G=0.215861,B=0.215861,A=0.501961)"/>
+		<KeyValueProperty name="Opacity" type="Float" val="0.501961"/>
+	</MasterMaterial>
+	<MasterMaterial name="Wood_Cherry_Original-L2b3ae6dd876ea1cab79faf8c5af7502d"  label="Wood_Cherry_Original" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.212231,G=0.000000,B=0.002428,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="Wood_Cherry_Original-Wood_Cherry_Original.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=1.0,G=-1.0,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<Export Duration="0"/>
+</DatasmithUnrealScene>

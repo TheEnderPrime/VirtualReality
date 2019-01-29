@@ -1,0 +1,467 @@
+<DatasmithUnrealScene>
+	<Version>0.21</Version>
+	<SDKVersion>4.21E1</SDKVersion>
+	<Host>SketchUp</Host>
+	<Application Vendor="Trimble Inc." ProductName="SketchUp Pro" ProductVersion="2018"/>
+	<User ID="52e5064a4510ea397a0a03b048f98cce" OS="Windows 8.1"/>
+	<StaticMesh name="M86a5356a30687e884b9e363e4d2966fa_1" label="2D_Man_Sang">
+		<file path="vr_room_Assets/M86a5356a30687e884b9e363e4d2966fa_1.udsmesh"/>
+		<Size a="525.02594" x="18.109709" y="0.0" z="69.242981"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0fb1be7f51b369f710a3989d8d9fdade"/>
+		<Material id="279470" name="jean_blue5-G9d9d6ac0dc702c0499a5bb04c44ed564"/>
+		<Material id="279473" name="_LightGray_1-G73c1ecbbb354bd982e94c24669b0e0fa"/>
+		<Material id="279485" name="_DimGray_1-G3823a1e1fef83bc869a090937ad60a6e"/>
+		<Material id="279488" name="_Charcoal_4-Ga81f19fbd00d12f073b38a0eebdabd17"/>
+		<Material id="279476" name="_Beige_4-G1d3e17a71e60f469f8912669f7e5b9ba"/>
+		<Material id="279479" name="_13-Gdecb4e2e4bc42c87fdc2755cc879a60c"/>
+		<Material id="279482" name="_Burnt_Umber_1-G051752c8923e615128d94e0ac35c9ab3"/>
+	</StaticMesh>
+	<StaticMesh name="M3f000d98d8451de861c30f06b49cb9fb_1" label="Large_Desktop_Computer">
+		<file path="vr_room_Assets/M3f000d98d8451de861c30f06b49cb9fb_1.udsmesh"/>
+		<Size a="2510.448975" x="9.0" y="22.0" z="20.0"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c25a54214029d5e75135382e975489bc"/>
+		<Material id="279405" name="Color_007-Gb5a79d5ddaa7dda7f4ea297fdf532efe"/>
+		<Material id="279403" name="Color_009-G5b4467b76700e0fa86070f5ce8878854"/>
+		<Material id="279500" name="Color_006-G94c612c2d89cec98445aacc93c16b843"/>
+	</StaticMesh>
+	<StaticMesh name="Mcc1dc6a56ed4717d7b0fd3262fe0a0a1_1" label="Group_11">
+		<file path="vr_room_Assets/Mcc1dc6a56ed4717d7b0fd3262fe0a0a1_1.udsmesh"/>
+		<Size a="135.0" x="36.0" y="18.0" z="3.0"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1e098b467da6c8f02654f49df811ff45"/>
+	</StaticMesh>
+	<StaticMesh name="Maf97edb986d7d303c85e23619d674e27_1" label="Group_10">
+		<file path="vr_room_Assets/Maf97edb986d7d303c85e23619d674e27_1.udsmesh"/>
+		<Size a="1222.6875" x="54.0" y="18.0" z="14.0"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2598cff0123b0c62bdec99595fe87d53"/>
+	</StaticMesh>
+	<StaticMesh name="Mf7b42a908ebf6337c1727aea80d4ee5f_1" label="Group_9">
+		<file path="vr_room_Assets/Mf7b42a908ebf6337c1727aea80d4ee5f_1.udsmesh"/>
+		<Size a="247.439178" x="18.0" y="18.0" z="3.0"/>
+		<LightmapUV value="-1"/>
+		<Hash value="9ede08a119b9685d09910fbcc395746a"/>
+	</StaticMesh>
+	<StaticMesh name="Mfac016abf10de5482edad489da7a2924_1" label="10_Leaf_Rush_Bench">
+		<file path="vr_room_Assets/Mfac016abf10de5482edad489da7a2924_1.udsmesh"/>
+		<Size a="752.720642" x="54.0" y="18.0" z="14.0"/>
+		<LightmapUV value="-1"/>
+		<Hash value="4edad314a29b2e14fcedd7cd0e6d5a6c"/>
+		<Material id="279503" name="Metal_Aluminum_Anodized-Lbf0f0deec12ede46fa2db9a6d42f318b"/>
+	</StaticMesh>
+	<StaticMesh name="Meaec54b8a910ba1e8c7ff2b8154e2127_1" label="Group_8">
+		<file path="vr_room_Assets/Meaec54b8a910ba1e8c7ff2b8154e2127_1.udsmesh"/>
+		<Size a="4285139.0" x="753.461914" y="753.461914" z="3044.270996"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f291f2fc48edbadbf5dcaf174d81e5a8"/>
+		<Material id="279394" name="Translucent_Glass_Gray-Gafdee370f5dfd8de3ab8a11659f4ff79"/>
+	</StaticMesh>
+	<StaticMesh name="Mfd36be940be40ab95012d043847f421f_1" label="Goose_Island_4_Pack_Ginger_Beer_Four_12OZ_Bottles">
+		<file path="vr_room_Assets/Mfd36be940be40ab95012d043847f421f_1.udsmesh"/>
+		<Size a="421.1922" x="5.157481" y="5.157481" z="8.090551"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3ef111a1857646f80f728eb9b716c831"/>
+	</StaticMesh>
+	<StaticMesh name="M60a8b5889bc1b6163f2bdb98f2ae2c69_1" label="Component_3">
+		<file path="vr_room_Assets/M60a8b5889bc1b6163f2bdb98f2ae2c69_1.udsmesh"/>
+		<Size a="182099.203125" x="120.0" y="120.0" z="240.75"/>
+		<LightmapUV value="-1"/>
+		<Hash value="e60fa63bb6705d29453f2c4d06f3f184"/>
+		<Material id="279536" name="0097_DeepSkyBlue-G21a56a12faac192f358e4287449bc356"/>
+		<Material id="279537" name="_16-L337c2accb5f83cf9fd243bc26b570b27"/>
+	</StaticMesh>
+	<StaticMesh name="M60a8b5889bc1b6163f2bdb98f2ae2c69_2" label="Component_3">
+		<file path="vr_room_Assets/M60a8b5889bc1b6163f2bdb98f2ae2c69_2.udsmesh"/>
+		<Size a="0.728241" x="0.852325" y="0.593727" z="0.952229"/>
+		<LightmapUV value="-1"/>
+		<Hash value="a411c340efbe21c50b926d09b282efa7"/>
+	</StaticMesh>
+	<StaticMesh name="M60a8b5889bc1b6163f2bdb98f2ae2c69_3" label="Component_3">
+		<file path="vr_room_Assets/M60a8b5889bc1b6163f2bdb98f2ae2c69_3.udsmesh"/>
+		<Size a="211.081909" x="13.598022" y="13.250122" z="4.330708"/>
+		<LightmapUV value="-1"/>
+		<Hash value="2e5389a409f587a0c5910caab43c31e0"/>
+	</StaticMesh>
+	<Actor name="SU_327980" label="Component_3" layer="Layer0">
+		<Transform tx="172.469543" ty="-162.816727" tz="0.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.3hQcxl1V97PuOCXl3JRpmU" />
+		<tag value="SU.PATH.0.327980" />
+		<children visible="true"  selector="false" selection="-1">
+			<ActorMesh name="SU_327980_319258_1" label="2D_Man_Sang" layer="Layer0">
+				<mesh name="M86a5356a30687e884b9e363e4d2966fa_1"/>
+				<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+				<Transform tx="36.44075" ty="-14.505824" tz="1.27" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.556657" qw="0.830742" qhex="000000000000008012810EBF8AAB543F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.1Fd7Ty9sKSGezAkJQUp3Bf" />
+				<tag value="SU.PATH.0.327980.319258" />
+				<tag value="SU.BEHAVIOR.FaceCamera" />
+			</ActorMesh>
+			<Actor name="SU_327980_327749" label="Large_Desktop_Computer__black_" layer="Layer0">
+				<Transform tx="-60.702141" ty="142.384323" tz="264.569946" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.707107" qw="0.707107" qhex="0000000000000080F204353FF204353F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.1yTBxv$aPFLBD768dojU0n" />
+				<tag value="SU.PATH.0.327980.327749" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="SU_327980_327749_315977_1" label="Large_Desktop_Computer" layer="Layer0">
+						<mesh name="M3f000d98d8451de861c30f06b49cb9fb_1"/>
+						<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+						<Transform tx="-60.702141" ty="142.384323" tz="264.569946" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.707107" qw="0.707107" qhex="0000000000000080F204353FF204353F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.3AunABAtzEPxAii0H_X3$A" />
+						<tag value="SU.PATH.0.327980.327749.315977" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="SU_327980_327750" label="10_Leaf_Rush_Bench" layer="Layer0">
+				<Transform tx="-121.66259" ty="139.374222" tz="1.27" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.2zssHtOBT3AQY5_vda0xLC" />
+				<tag value="SU.PATH.0.327980.327750" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="SU_327980_327750_316206_1" label="Group_11" layer="Layer0">
+						<mesh name="Mcc1dc6a56ed4717d7b0fd3262fe0a0a1_1"/>
+						<material id="0" name="_14-I671c2b26e9674030841ed483898828fd"/>
+						<Transform tx="-121.66259" ty="2.214219" tz="36.830002" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.1Fe5Hoh9f4lvaj0Lo_VkNw" />
+						<tag value="SU.PATH.0.327980.327750.316206" />
+					</ActorMesh>
+					<ActorMesh name="SU_327980_327750_316207_1" label="Group_10" layer="Layer0">
+						<mesh name="Maf97edb986d7d303c85e23619d674e27_1"/>
+						<material id="0" name="Metal_Aluminum_Anodized-Ibf0f0deec12ede46fa2db9a6d42f318b"/>
+						<Transform tx="-121.66259" ty="2.214219" tz="1.27" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.1ZxfGA1Oz21RpBosuXXz7x" />
+						<tag value="SU.PATH.0.327980.327750.316207" />
+					</ActorMesh>
+					<ActorMesh name="SU_327980_327750_316208_1" label="Group_9" layer="Layer0">
+						<mesh name="Mf7b42a908ebf6337c1727aea80d4ee5f_1"/>
+						<material id="0" name="Graphite1-Iaa2fc20f8bc7a03fa71a400727820a10"/>
+						<Transform tx="-121.66259" ty="93.654221" tz="36.830002" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.3mK1BmtgT4ExY_JHXHaaXD" />
+						<tag value="SU.PATH.0.327980.327750.316208" />
+					</ActorMesh>
+					<ActorMesh name="SU_327980_327750_1" label="10_Leaf_Rush_Bench" layer="Layer0">
+						<mesh name="Mfac016abf10de5482edad489da7a2924_1"/>
+						<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+						<Transform tx="-121.66259" ty="139.374222" tz="1.27" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.2zssHtOBT3AQY5_vda0xLC" />
+						<tag value="SU.PATH.0.327980.327750" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="SU_327980_327751" label="10_Leaf_Rush_Bench" layer="Layer0">
+				<Transform tx="-121.038857" ty="1.364967" tz="1.27" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.2zssHtOBT3AQY5_vda0xLC" />
+				<tag value="SU.PATH.0.327980.327751" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="SU_327980_327751_316206_1" label="Group_11" layer="Layer0">
+						<mesh name="Mcc1dc6a56ed4717d7b0fd3262fe0a0a1_1"/>
+						<material id="0" name="_14-I671c2b26e9674030841ed483898828fd"/>
+						<Transform tx="-121.038857" ty="-135.795029" tz="36.830002" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.1Fe5Hoh9f4lvaj0Lo_VkNw" />
+						<tag value="SU.PATH.0.327980.327751.316206" />
+					</ActorMesh>
+					<ActorMesh name="SU_327980_327751_316207_1" label="Group_10" layer="Layer0">
+						<mesh name="Maf97edb986d7d303c85e23619d674e27_1"/>
+						<material id="0" name="Metal_Aluminum_Anodized-Ibf0f0deec12ede46fa2db9a6d42f318b"/>
+						<Transform tx="-121.038857" ty="-135.795029" tz="1.27" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.1ZxfGA1Oz21RpBosuXXz7x" />
+						<tag value="SU.PATH.0.327980.327751.316207" />
+					</ActorMesh>
+					<ActorMesh name="SU_327980_327751_316208_1" label="Group_9" layer="Layer0">
+						<mesh name="Mf7b42a908ebf6337c1727aea80d4ee5f_1"/>
+						<material id="0" name="Graphite1-Iaa2fc20f8bc7a03fa71a400727820a10"/>
+						<Transform tx="-121.038857" ty="-44.355034" tz="36.830002" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.3mK1BmtgT4ExY_JHXHaaXD" />
+						<tag value="SU.PATH.0.327980.327751.316208" />
+					</ActorMesh>
+					<ActorMesh name="SU_327980_327751_1" label="10_Leaf_Rush_Bench" layer="Layer0">
+						<mesh name="Mfac016abf10de5482edad489da7a2924_1"/>
+						<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+						<Transform tx="-121.038857" ty="1.364967" tz="1.27" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.2zssHtOBT3AQY5_vda0xLC" />
+						<tag value="SU.PATH.0.327980.327751" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="SU_327980_327921" label="Goose_Island_4_Pack_Ginger_Beer_Four_12OZ_Bottles" layer="Layer0">
+				<Transform tx="168.024536" ty="127.028252" tz="108.880615" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.25I5NpEWXA4uH2qbEFVEWl" />
+				<tag value="SU.PATH.0.327980.327921" />
+				<children visible="true"  selector="false" selection="-1">
+					<Actor name="SU_327980_327921_318614" label="Budweiser_Bottle" layer="Layer0">
+						<Transform tx="149.855133" ty="126.436653" tz="98.245903" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.2IE6iiGIP6qvfvDIlyurYu" />
+						<tag value="SU.PATH.0.327980.327921.318614" />
+						<children visible="true"  selector="false" selection="-1">
+							<ActorMesh name="SU_327980_327921_318614_318613_1" label="Group_8" layer="Layer0">
+								<mesh name="Meaec54b8a910ba1e8c7ff2b8154e2127_1"/>
+								<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+								<Transform tx="161.336044" ty="127.448151" tz="109.064392" sx="0.007719" sy="0.007719" sz="0.007719" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.1ig9EVn0j0_90cL5F8RsP5" />
+								<tag value="SU.PATH.0.327980.327921.318614.318613" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<Actor name="SU_327980_327921_319136" label="Budweiser_Bottle" layer="Layer0">
+						<Transform tx="149.855133" ty="133.036652" tz="98.245903" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.2IE6iiGIP6qvfvDIlyurYu" />
+						<tag value="SU.PATH.0.327980.327921.319136" />
+						<children visible="true"  selector="false" selection="-1">
+							<ActorMesh name="SU_327980_327921_319136_318613_1" label="Group_8" layer="Layer0">
+								<mesh name="Meaec54b8a910ba1e8c7ff2b8154e2127_1"/>
+								<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+								<Transform tx="161.336044" ty="134.048157" tz="109.064392" sx="0.007719" sy="0.007719" sz="0.007719" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.1ig9EVn0j0_90cL5F8RsP5" />
+								<tag value="SU.PATH.0.327980.327921.319136.318613" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<Actor name="SU_327980_327921_319137" label="Budweiser_Bottle" layer="Layer0">
+						<Transform tx="156.075134" ty="126.436653" tz="98.245903" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.2IE6iiGIP6qvfvDIlyurYu" />
+						<tag value="SU.PATH.0.327980.327921.319137" />
+						<children visible="true"  selector="false" selection="-1">
+							<ActorMesh name="SU_327980_327921_319137_318613_1" label="Group_8" layer="Layer0">
+								<mesh name="Meaec54b8a910ba1e8c7ff2b8154e2127_1"/>
+								<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+								<Transform tx="167.55603" ty="127.448151" tz="109.064392" sx="0.007719" sy="0.007719" sz="0.007719" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.1ig9EVn0j0_90cL5F8RsP5" />
+								<tag value="SU.PATH.0.327980.327921.319137.318613" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<Actor name="SU_327980_327921_319138" label="Budweiser_Bottle" layer="Layer0">
+						<Transform tx="156.075134" ty="133.036652" tz="98.245903" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.2IE6iiGIP6qvfvDIlyurYu" />
+						<tag value="SU.PATH.0.327980.327921.319138" />
+						<children visible="true"  selector="false" selection="-1">
+							<ActorMesh name="SU_327980_327921_319138_318613_1" label="Group_8" layer="Layer0">
+								<mesh name="Meaec54b8a910ba1e8c7ff2b8154e2127_1"/>
+								<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+								<Transform tx="167.55603" ty="134.048157" tz="109.064392" sx="0.007719" sy="0.007719" sz="0.007719" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.1ig9EVn0j0_90cL5F8RsP5" />
+								<tag value="SU.PATH.0.327980.327921.319138.318613" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<ActorMesh name="SU_327980_327921_1" label="Goose_Island_4_Pack_Ginger_Beer_Four_12OZ_Bottles" layer="Layer0">
+						<mesh name="Mfd36be940be40ab95012d043847f421f_1"/>
+						<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+						<Transform tx="168.024536" ty="127.028252" tz="108.880615" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.25I5NpEWXA4uH2qbEFVEWl" />
+						<tag value="SU.PATH.0.327980.327921" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<Actor name="SU_327980_327922" label="Goose_Island_4_Pack_Ginger_Beer_Four_12OZ_Bottles" layer="Layer0">
+				<Transform tx="-101.627892" ty="-158.533447" tz="107.136345" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.25I5NpEWXA4uH2qbEFVEWl" />
+				<tag value="SU.PATH.0.327980.327922" />
+				<children visible="true"  selector="false" selection="-1">
+					<Actor name="SU_327980_327922_318614" label="Budweiser_Bottle" layer="Layer0">
+						<Transform tx="-119.79731" ty="-159.125046" tz="96.501625" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.2IE6iiGIP6qvfvDIlyurYu" />
+						<tag value="SU.PATH.0.327980.327922.318614" />
+						<children visible="true"  selector="false" selection="-1">
+							<ActorMesh name="SU_327980_327922_318614_318613_1" label="Group_8" layer="Layer0">
+								<mesh name="Meaec54b8a910ba1e8c7ff2b8154e2127_1"/>
+								<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+								<Transform tx="-108.316399" ty="-158.113541" tz="107.320114" sx="0.007719" sy="0.007719" sz="0.007719" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.1ig9EVn0j0_90cL5F8RsP5" />
+								<tag value="SU.PATH.0.327980.327922.318614.318613" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<Actor name="SU_327980_327922_319136" label="Budweiser_Bottle" layer="Layer0">
+						<Transform tx="-119.79731" ty="-152.52504" tz="96.501625" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.2IE6iiGIP6qvfvDIlyurYu" />
+						<tag value="SU.PATH.0.327980.327922.319136" />
+						<children visible="true"  selector="false" selection="-1">
+							<ActorMesh name="SU_327980_327922_319136_318613_1" label="Group_8" layer="Layer0">
+								<mesh name="Meaec54b8a910ba1e8c7ff2b8154e2127_1"/>
+								<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+								<Transform tx="-108.316399" ty="-151.51355" tz="107.320114" sx="0.007719" sy="0.007719" sz="0.007719" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.1ig9EVn0j0_90cL5F8RsP5" />
+								<tag value="SU.PATH.0.327980.327922.319136.318613" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<Actor name="SU_327980_327922_319137" label="Budweiser_Bottle" layer="Layer0">
+						<Transform tx="-113.577309" ty="-159.125046" tz="96.501625" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.2IE6iiGIP6qvfvDIlyurYu" />
+						<tag value="SU.PATH.0.327980.327922.319137" />
+						<children visible="true"  selector="false" selection="-1">
+							<ActorMesh name="SU_327980_327922_319137_318613_1" label="Group_8" layer="Layer0">
+								<mesh name="Meaec54b8a910ba1e8c7ff2b8154e2127_1"/>
+								<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+								<Transform tx="-102.096397" ty="-158.113541" tz="107.320114" sx="0.007719" sy="0.007719" sz="0.007719" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.1ig9EVn0j0_90cL5F8RsP5" />
+								<tag value="SU.PATH.0.327980.327922.319137.318613" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<Actor name="SU_327980_327922_319138" label="Budweiser_Bottle" layer="Layer0">
+						<Transform tx="-113.577309" ty="-152.52504" tz="96.501625" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.2IE6iiGIP6qvfvDIlyurYu" />
+						<tag value="SU.PATH.0.327980.327922.319138" />
+						<children visible="true"  selector="false" selection="-1">
+							<ActorMesh name="SU_327980_327922_319138_318613_1" label="Group_8" layer="Layer0">
+								<mesh name="Meaec54b8a910ba1e8c7ff2b8154e2127_1"/>
+								<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+								<Transform tx="-102.096397" ty="-151.51355" tz="107.320114" sx="0.007719" sy="0.007719" sz="0.007719" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.1ig9EVn0j0_90cL5F8RsP5" />
+								<tag value="SU.PATH.0.327980.327922.319138.318613" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<ActorMesh name="SU_327980_327922_1" label="Goose_Island_4_Pack_Ginger_Beer_Four_12OZ_Bottles" layer="Layer0">
+						<mesh name="Mfd36be940be40ab95012d043847f421f_1"/>
+						<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+						<Transform tx="-101.627892" ty="-158.533447" tz="107.136345" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.25I5NpEWXA4uH2qbEFVEWl" />
+						<tag value="SU.PATH.0.327980.327922" />
+					</ActorMesh>
+				</children>
+			</Actor>
+			<ActorMesh name="SU_327980_1" label="Component_3" layer="Layer0">
+				<mesh name="M60a8b5889bc1b6163f2bdb98f2ae2c69_1"/>
+				<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+				<Transform tx="172.469543" ty="-162.816727" tz="0.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.3hQcxl1V97PuOCXl3JRpmU" />
+				<tag value="SU.PATH.0.327980" />
+			</ActorMesh>
+			<ActorMesh name="SU_327980_2" label="Component_3" layer="Layer0">
+				<mesh name="M60a8b5889bc1b6163f2bdb98f2ae2c69_2"/>
+				<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+				<Transform tx="172.469543" ty="-162.816727" tz="0.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.3hQcxl1V97PuOCXl3JRpmU" />
+				<tag value="SU.PATH.0.327980" />
+			</ActorMesh>
+			<ActorMesh name="SU_327980_3" label="Component_3" layer="Layer0">
+				<mesh name="M60a8b5889bc1b6163f2bdb98f2ae2c69_3"/>
+				<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+				<Transform tx="172.469543" ty="-162.816727" tz="0.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.3hQcxl1V97PuOCXl3JRpmU" />
+				<tag value="SU.PATH.0.327980" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Texture name="Metal_Aluminum_Anodized" texturemode="0" rgbcurve="-1.000000" file="vr_room_Assets/Metal_Aluminum_Anodized.jpg">
+		<Hash value="adf9bd3ce680f91aca45259c5c614226"/>
+	</Texture>
+	<Texture name="Textile_Leaves_Green-_14" texturemode="0" rgbcurve="-1.000000" file="vr_room_Assets/Textile_Leaves_Green-_14.jpg">
+		<Hash value="cec1b5805095c9ae5a386a2a649291cd"/>
+	</Texture>
+	<Texture name="Concrete-Graphite1" texturemode="0" rgbcurve="-1.000000" file="vr_room_Assets/Concrete-Graphite1.jpg">
+		<Hash value="fb00fca62f5f47a029755b4cccc25a24"/>
+	</Texture>
+	<Texture name="Mupetvision" texturemode="0" rgbcurve="-1.000000" file="vr_room_Assets/Mupetvision.jpg">
+		<Hash value="b1261622d5d62bd4fa1590c8a927f894"/>
+	</Texture>
+	<MasterMaterial name="Default-G7a1920d61156abc05a60135aefe8bc67"  label="Default" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.215861,G=0.215861,B=0.215861,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Translucent_Glass_Gray-Gafdee370f5dfd8de3ab8a11659f4ff79"  label="Translucent_Glass_Gray" Type="2" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.215861,G=0.215861,B=0.215861,A=0.501961)"/>
+		<KeyValueProperty name="Opacity" type="Float" val="0.501961"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_009-G5b4467b76700e0fa86070f5ce8878854"  label="Color_009" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_007-Gb5a79d5ddaa7dda7f4ea297fdf532efe"  label="Color_007" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.042311,G=0.042311,B=0.042311,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="jean_blue5-G9d9d6ac0dc702c0499a5bb04c44ed564"  label="jean_blue5" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.017642,G=0.028426,B=0.054480,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="_LightGray_1-G73c1ecbbb354bd982e94c24669b0e0fa"  label="&lt;LightGray&gt;1" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.396755,G=0.396755,B=0.396755,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="_Beige_4-G1d3e17a71e60f469f8912669f7e5b9ba"  label="&lt;Beige&gt;4" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.401978,G=0.313989,B=0.174647,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="_13-Gdecb4e2e4bc42c87fdc2755cc879a60c"  label="*13" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.752942,G=0.752942,B=0.577580,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="_Burnt_Umber_1-G051752c8923e615128d94e0ac35c9ab3"  label="&lt;Burnt_Umber&gt;1" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.002125,G=0.000911,B=0.000607,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="_DimGray_1-G3823a1e1fef83bc869a090937ad60a6e"  label="&lt;DimGray&gt;1" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.141263,G=0.141263,B=0.141263,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="_Charcoal_4-Ga81f19fbd00d12f073b38a0eebdabd17"  label="&lt;Charcoal&gt;4" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.016807,G=0.016807,B=0.016807,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_006-G94c612c2d89cec98445aacc93c16b843"  label="Color_006" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.093059,G=0.093059,B=0.093059,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Metal_Aluminum_Anodized-Lbf0f0deec12ede46fa2db9a6d42f318b"  label="Metal_Aluminum_Anodized" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.590619,G=0.637597,B=0.708376,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="Metal_Aluminum_Anodized.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=1.0,G=-1.0,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Metal_Aluminum_Anodized-Ibf0f0deec12ede46fa2db9a6d42f318b"  label="Metal_Aluminum_Anodized" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.590619,G=0.637597,B=0.708376,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="Metal_Aluminum_Anodized.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=0.018519,G=-0.018519,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="_14-I671c2b26e9674030841ed483898828fd"  label="*14" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.304987,G=0.287441,B=0.270498,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="Textile_Leaves_Green-_14.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=0.066667,G=-0.066667,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Graphite1-Iaa2fc20f8bc7a03fa71a400727820a10"  label="Graphite1" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.022174,G=0.022174,B=0.022174,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="Concrete-Graphite1.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=0.020833,G=-0.030762,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="0097_DeepSkyBlue-G21a56a12faac192f358e4287449bc356"  label="0097_DeepSkyBlue" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.000000,G=0.520996,B=1.000000,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="_16-L337c2accb5f83cf9fd243bc26b570b27"  label="*16" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.027321,G=0.040915,B=0.381326,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="Mupetvision.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=1.0,G=-1.0,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<Export Duration="0"/>
+</DatasmithUnrealScene>

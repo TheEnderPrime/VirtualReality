@@ -1,0 +1,61 @@
+<DatasmithUnrealScene>
+	<Version>0.21</Version>
+	<SDKVersion>4.21E1</SDKVersion>
+	<Host>SketchUp</Host>
+	<Application Vendor="Trimble Inc." ProductName="SketchUp Pro" ProductVersion="2018"/>
+	<User ID="52e5064a4510ea397a0a03b048f98cce" OS="Windows 8.1"/>
+	<StaticMesh name="Mf546c89d3a37a97fe46aa01fc0d67ed2_1" label="Stem">
+		<file path="oculusRiftSensor_Assets/Mf546c89d3a37a97fe46aa01fc0d67ed2_1.udsmesh"/>
+		<Size a="1.803383" x="0.178323" y="0.1875" z="9.8125"/>
+		<LightmapUV value="-1"/>
+		<Hash value="7a2cbcc288ccd33b397a888711824b8d"/>
+	</StaticMesh>
+	<StaticMesh name="M72972c1b6b89ba3d30c36af9248cc744_1" label="Sensor_Sensor">
+		<file path="oculusRiftSensor_Assets/M72972c1b6b89ba3d30c36af9248cc744_1.udsmesh"/>
+		<Size a="18.929617" x="1.375" y="3.236236" z="2.039601"/>
+		<LightmapUV value="-1"/>
+		<Hash value="980d35a74a0e6b2c73b930ebcb3bb600"/>
+	</StaticMesh>
+	<StaticMesh name="Md3004e1d1fcada70e4164b332462dea9_1" label="Sensor_Base">
+		<file path="oculusRiftSensor_Assets/Md3004e1d1fcada70e4164b332462dea9_1.udsmesh"/>
+		<Size a="29.27939" x="4.25" y="4.04199" z="0.1875"/>
+		<LightmapUV value="-1"/>
+		<Hash value="86976d12929bad9f7fb731ce5cf1104c"/>
+	</StaticMesh>
+	<Actor name="SU_13917" label="Simple_Template_-_Feet_and_Inches" layer="Layer0">
+		<Transform tx="-859.438049" ty="-980.981995" tz="3.175" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.1JOK2Y43H4ghAQpOg1Gujp" />
+		<tag value="SU.PATH.0.13917" />
+		<children visible="true"  selector="false" selection="-1">
+			<ActorMesh name="SU_13917_13915_1" label="Stem" layer="Layer0">
+				<mesh name="Mf546c89d3a37a97fe46aa01fc0d67ed2_1"/>
+				<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+				<Transform tx="-10.572516" ty="-11.669163" tz="3.65125" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.27tMenWiDQGDqA8Ecu$SDS" />
+				<tag value="SU.PATH.0.13917.13915" />
+			</ActorMesh>
+			<ActorMesh name="SU_13917_13916_1" label="Sensor_Sensor" layer="Layer0">
+				<mesh name="M72972c1b6b89ba3d30c36af9248cc744_1"/>
+				<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+				<Transform tx="-9.064391" ty="-15.603183" tz="25.366615" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.0UC3$rkRqDJOwDp6FuPb0g" />
+				<tag value="SU.PATH.0.13917.13916" />
+			</ActorMesh>
+			<ActorMesh name="SU_13917_13914_1" label="Sensor_Base" layer="Layer0">
+				<mesh name="Md3004e1d1fcada70e4164b332462dea9_1"/>
+				<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+				<Transform tx="-5.413141" ty="-16.564365" tz="3.175" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.1xBNRCkpUlGRxPDMTSkDc5" />
+				<tag value="SU.PATH.0.13917.13914" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<MasterMaterial name="Default-G7a1920d61156abc05a60135aefe8bc67"  label="Default" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.215861,G=0.215861,B=0.215861,A=1.000000)"/>
+	</MasterMaterial>
+	<Export Duration="0"/>
+</DatasmithUnrealScene>

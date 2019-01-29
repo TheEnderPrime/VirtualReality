@@ -1,0 +1,1035 @@
+<DatasmithUnrealScene>
+	<Version>0.21</Version>
+	<SDKVersion>4.21E1</SDKVersion>
+	<Host>SketchUp</Host>
+	<Application Vendor="Trimble Inc." ProductName="SketchUp Pro" ProductVersion="2018"/>
+	<User ID="52e5064a4510ea397a0a03b048f98cce" OS="Windows 8.1"/>
+	<StaticMesh name="M54e7c7b7a7eb34cc4b3fe3e678af8044_1" label="Component_1">
+		<file path="ComputerDesk_Assets/M54e7c7b7a7eb34cc4b3fe3e678af8044_1.udsmesh"/>
+		<Size a="8.145256" x="5.625" y="16.0625" z="12.088561"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3d3289c1d392dc905659bd9e28290933"/>
+		<Material id="43" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+		<Material id="44" name="0104_MediumBlue-L5912d6d6dbd2f3505c3d157a1809e889"/>
+	</StaticMesh>
+	<StaticMesh name="M7e3e44299bbfbe51e737c740a77760e3_1" label="Group_1">
+		<file path="ComputerDesk_Assets/M7e3e44299bbfbe51e737c740a77760e3_1.udsmesh"/>
+		<Size a="0.964565" x="0.75" y="0.75" z="0.35"/>
+		<LightmapUV value="-1"/>
+		<Hash value="041c5eb82cd0ac1b2e98e305a6dfcc36"/>
+	</StaticMesh>
+	<StaticMesh name="M49f288549e6ec0476e024f883ddac240_1" label="Group_2">
+		<file path="ComputerDesk_Assets/M49f288549e6ec0476e024f883ddac240_1.udsmesh"/>
+		<Size a="1.816847" x="1.37" y="0.75" z="0.35"/>
+		<LightmapUV value="-1"/>
+		<Hash value="ca77a1d24fa65d7e26a6b0d72407b222"/>
+	</StaticMesh>
+	<StaticMesh name="M9928f5634c0d59fb86634ded1b928204_1" label="Group_3">
+		<file path="ComputerDesk_Assets/M9928f5634c0d59fb86634ded1b928204_1.udsmesh"/>
+		<Size a="3.156416" x="1.63" y="0.75" z="0.35"/>
+		<LightmapUV value="-1"/>
+		<Hash value="68aa095b215aadfdc065218cb8a58928"/>
+	</StaticMesh>
+	<StaticMesh name="Mc78994daf10b2c8797c93b552881c38d_1" label="Group_4">
+		<file path="ComputerDesk_Assets/Mc78994daf10b2c8797c93b552881c38d_1.udsmesh"/>
+		<Size a="1.171755" x="0.95" y="0.75" z="0.35"/>
+		<LightmapUV value="-1"/>
+		<Hash value="c83f64af30b9c2564d25df9957e2e818"/>
+	</StaticMesh>
+	<StaticMesh name="M6ce4d85a628a88bbdb3ac24a8e5a9c2e_1" label="Keyboard">
+		<file path="ComputerDesk_Assets/M6ce4d85a628a88bbdb3ac24a8e5a9c2e_1.udsmesh"/>
+		<Size a="305.064423" x="18.5" y="8.0" z="1.1"/>
+		<LightmapUV value="-1"/>
+		<Hash value="25c6441573d42e8297f4c777743eb7a1"/>
+		<Material id="43" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+	</StaticMesh>
+	<StaticMesh name="Mf7c0a9e57626198c4a417f522901dfe1_1" label="Dell_Computer_Tower">
+		<file path="ComputerDesk_Assets/Mf7c0a9e57626198c4a417f522901dfe1_1.udsmesh"/>
+		<Size a="799.817261" x="7.0" y="16.5" z="14.749998"/>
+		<LightmapUV value="-1"/>
+		<Hash value="8f7db011b3edad9d01b185278ecd1b7d"/>
+		<Material id="37" name="_DimGray_-G70f008275dfdf7fb8b4fa757ec18b5d0"/>
+		<Material id="51" name="_Gray_-G016791896adc79b7feae68aa6e74b1b5"/>
+		<Material id="39" name="0134_DimGray-G866b7a963d0be1a687f09b9f57aeb001"/>
+		<Material id="40" name="0136_Charcoal-G841f576d4c246bf12f1841b29a124c87"/>
+		<Material id="38" name="0135_DarkGray-Gb4ca666c4347886458857469a845a29e"/>
+		<Material id="52" name="0133_Gray-Ga6d39b6d72bc9bbdfc26a70f5cd2f2db"/>
+		<Material id="53" name="0065_Lime-G8c212f0bcbf2fa7cb18bb1ad088e8f65"/>
+	</StaticMesh>
+	<StaticMesh name="Mf2a47c6809d88e175dade0ef7b16aa13_1" label="Mouse">
+		<file path="ComputerDesk_Assets/Mf2a47c6809d88e175dade0ef7b16aa13_1.udsmesh"/>
+		<Size a="30212.566406" x="156.413284" y="88.122131" z="33.800789"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d86acadb0a7eb4db1e74cc75fd7bdbf0"/>
+		<Material id="50" name="0137_Black-G5154ef1ddb887761ab56fed69062a27e"/>
+		<Material id="56" name="Color_000-G1cefcbfd5c337093cc7da225869414e8"/>
+		<Material id="54" name="Color_006-G94c612c2d89cec98445aacc93c16b843"/>
+		<Material id="59" name="0131_Silver-G228334f0f7df652a71ad739ac06606b0"/>
+		<Material id="55" name="Color_004-G185f76c80e5eddcce3d5a8e7a6416f2c"/>
+	</StaticMesh>
+	<StaticMesh name="Mf2a47c6809d88e175dade0ef7b16aa13_2" label="Mouse">
+		<file path="ComputerDesk_Assets/Mf2a47c6809d88e175dade0ef7b16aa13_2.udsmesh"/>
+		<Size a="1811.545532" x="27.24633" y="27.24633" z="27.24633"/>
+		<LightmapUV value="-1"/>
+		<Hash value="0977c57a765ee4da1b5d134a1a7905fa"/>
+	</StaticMesh>
+	<StaticMesh name="M181900dad960beccb34f53c4e0ff4647_1" label="Computer">
+		<file path="ComputerDesk_Assets/M181900dad960beccb34f53c4e0ff4647_1.udsmesh"/>
+		<Size a="67.763718" x="5.31864" y="6.325119" z="9.3125"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d53c9e4bed9ebfe8530a3290f784f916"/>
+		<Material id="38" name="0135_DarkGray-Gb4ca666c4347886458857469a845a29e"/>
+		<Material id="39" name="0134_DimGray-G866b7a963d0be1a687f09b9f57aeb001"/>
+		<Material id="40" name="0136_Charcoal-G841f576d4c246bf12f1841b29a124c87"/>
+		<Material id="41" name="Fencing_Mesh_Blue-L61a183308e4605252399a39a9cb9ec5e"/>
+	</StaticMesh>
+	<StaticMesh name="M181900dad960beccb34f53c4e0ff4647_2" label="Computer">
+		<file path="ComputerDesk_Assets/M181900dad960beccb34f53c4e0ff4647_2.udsmesh"/>
+		<Size a="17449.603516" x="41.1875" y="49.046654" z="46.81992"/>
+		<LightmapUV value="-1"/>
+		<Hash value="f1907ae6dcf701546712872fe88c237a"/>
+		<Material id="50" name="0137_Black-G5154ef1ddb887761ab56fed69062a27e"/>
+		<Material id="48" name="Metal_Seamed-L42b2cab1cee81f8fe2942b2bc5ba55e2"/>
+		<Material id="46" name="Wood_Bamboo_Medium-L5b8c478964f6a0d62bddfcdcae4503fe"/>
+		<Material id="57" name="Carpet_Plush_Charcoal-L2244f76eea189abdf3bd33dfea08b778"/>
+		<Material id="40" name="0136_Charcoal-G841f576d4c246bf12f1841b29a124c87"/>
+		<Material id="38" name="0135_DarkGray-Gb4ca666c4347886458857469a845a29e"/>
+		<Material id="39" name="0134_DimGray-G866b7a963d0be1a687f09b9f57aeb001"/>
+		<Material id="41" name="Fencing_Mesh_Blue-L61a183308e4605252399a39a9cb9ec5e"/>
+	</StaticMesh>
+	<Actor name="SU_19843" label="Component" layer="Layer0">
+		<Transform tx="132.050354" ty="-135.63179" tz="0.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.3Fm_Vg1q92ngy7jY8R_uYT" />
+		<tag value="SU.PATH.0.19843" />
+		<children visible="true"  selector="false" selection="-1">
+			<Actor name="SU_19843_19842" label="Computer" layer="Layer0">
+				<Transform tx="43.639786" ty="-59.892952" tz="0.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.1RdRVUa856k9eRh8hkn3id" />
+				<tag value="SU.PATH.0.19843.19842" />
+				<children visible="true"  selector="false" selection="-1">
+					<ActorMesh name="SU_19843_19842_17636_1" label="Component_1" layer="Layer0">
+						<mesh name="M54e7c7b7a7eb34cc4b3fe3e678af8044_1"/>
+						<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+						<Transform tx="13.477287" ty="-25.007854" tz="95.268845" sx="3.1496" sy="3.1496" sz="3.1496" qx="-0.0" qy="0.0" qz="0.0" qw="1.0" qhex="B574D5A100000080000000800000803F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.0yaPcUwurFBfN2vK5ikxJA" />
+						<tag value="SU.PATH.0.19843.19842.17636" />
+					</ActorMesh>
+					<Actor name="SU_19843_19842_19489" label="Keyboard" layer="Layer0">
+						<Transform tx="-57.690201" ty="-32.207916" tz="85.821007" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.0YZKzCH259zfbxRDBPwdX$" />
+						<tag value="SU.PATH.0.19843.19842.19489" />
+						<children visible="true"  selector="false" selection="-1">
+							<ActorMesh name="SU_19843_19842_19489_11776_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-42.450203" ty="-30.302916" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11776" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11777_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-42.450203" ty="-26.259766" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11777" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11778_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-42.450203" ty="-24.354765" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11778" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11779_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-42.450203" ty="-22.449766" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11779" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11780_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-42.450203" ty="-20.544765" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11780" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11781_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-42.450203" ty="-14.016966" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11781" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11782_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-42.450203" ty="-12.111966" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11782" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11783_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-42.450203" ty="-17.826965" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11783" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11784_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-42.450203" ty="-15.921966" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11784" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11785_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-42.450203" ty="-5.584166" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11785" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11786_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-42.450203" ty="-3.679166" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11786" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11787_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-42.450203" ty="-9.394166" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11787" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11788_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-42.450203" ty="-7.489166" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11788" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11789_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-42.450203" ty="-1.042116" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11789" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11790_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-42.450203" ty="0.862884" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11790" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11791_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-42.450203" ty="2.767884" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11791" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11792_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-48.165203" ty="2.767884" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11792" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11793_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-48.165203" ty="0.862884" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11793" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11794_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-48.165203" ty="-1.042116" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11794" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11795_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-50.070202" ty="2.767884" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11795" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11796_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-50.070202" ty="0.862884" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11796" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11797_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-50.070202" ty="-1.042116" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11797" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11798_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-55.785202" ty="2.767884" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11798" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11799_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-55.785202" ty="0.862884" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11799" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11800_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-55.785202" ty="-1.042116" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11800" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11801_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-53.880203" ty="0.862884" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11801" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11802_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-48.165203" ty="5.257084" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11802" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11803_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-48.165203" ty="7.162084" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11803" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11804_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-48.165203" ty="9.067083" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11804" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11805_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-48.165203" ty="10.972084" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11805" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11806_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-50.070202" ty="7.162084" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11806" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11807_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-50.070202" ty="5.257084" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11807" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11808_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-50.070202" ty="9.067083" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11808" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11809_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-51.975201" ty="7.162084" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11809" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11810_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-51.975201" ty="5.257084" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11810" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11811_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-51.975201" ty="9.067083" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11811" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11812_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-53.880203" ty="7.162084" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11812" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11813_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-53.880203" ty="5.257084" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11813" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11814_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-53.880203" ty="9.067083" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11814" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11815_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-55.785202" ty="9.067083" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11815" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11897_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-48.165203" ty="-30.302916" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11897" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11898_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-48.165203" ty="-28.397917" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11898" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11899_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-48.165203" ty="-26.492916" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11899" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11900_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-48.165203" ty="-24.587915" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11900" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11901_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-48.165203" ty="-22.682917" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11901" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11902_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-48.165203" ty="-20.777916" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11902" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11903_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-48.165203" ty="-18.872915" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11903" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11904_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-48.165203" ty="-16.967916" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11904" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11905_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-48.165203" ty="-15.062916" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11905" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11906_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-48.165203" ty="-13.157916" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11906" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11907_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-48.165203" ty="-11.252916" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11907" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11908_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-48.165203" ty="-9.347917" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11908" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11909_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-48.165203" ty="-7.442916" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11909" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11961_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-50.070202" ty="-27.381916" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11961" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11962_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-50.070202" ty="-25.476915" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11962" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11963_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-50.070202" ty="-23.571917" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11963" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11964_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-50.070202" ty="-21.666916" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11964" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11965_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-50.070202" ty="-19.761917" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11965" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11966_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-50.070202" ty="-17.856916" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11966" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11967_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-50.070202" ty="-15.951916" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11967" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11968_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-50.070202" ty="-14.046916" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11968" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11969_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-50.070202" ty="-12.141916" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11969" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11970_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-50.070202" ty="-10.236917" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11970" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11971_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-50.070202" ty="-8.331916" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11971" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_11972_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-50.070202" ty="-6.426916" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.11972" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_12012_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-51.975201" ty="-23.013117" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.12012" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_12013_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-51.975201" ty="-24.918116" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.12013" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_12014_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-51.975201" ty="-26.823116" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.12014" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_12015_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-51.975201" ty="-19.203115" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.12015" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_12016_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-51.975201" ty="-21.108116" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.12016" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_12017_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-51.975201" ty="-17.298117" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.12017" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_12018_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-51.975201" ty="-15.393116" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.12018" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_12019_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-51.975201" ty="-13.488116" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.12019" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_12020_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-51.975201" ty="-11.583117" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.12020" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_12021_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-51.975201" ty="-9.678116" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.12021" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_12022_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-51.975201" ty="-7.773116" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.12022" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_12045_1" label="Group_2" layer="Layer0">
+								<mesh name="M49f288549e6ec0476e024f883ddac240_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-51.975201" ty="-30.302916" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.0oJO3mfwL72x9souCAPIKB" />
+								<tag value="SU.PATH.0.19843.19842.19489.12045" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_12054_1" label="Group_3" layer="Layer0">
+								<mesh name="M9928f5634c0d59fb86634ded1b928204_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-51.975201" ty="-5.868116" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3hurJYWPDAquC4e1sZlqo7" />
+								<tag value="SU.PATH.0.19843.19842.19489.12054" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_12055_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-53.880203" ty="-10.643316" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.12055" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_12056_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-53.880203" ty="-8.738317" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.12056" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_12057_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-53.880203" ty="-12.548316" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.12057" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_12058_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-53.880203" ty="-16.358316" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.12058" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_12059_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-53.880203" ty="-20.168316" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.12059" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_12060_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-53.880203" ty="-14.453316" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.12060" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_12061_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-53.880203" ty="-18.263317" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.12061" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_12062_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-53.880203" ty="-25.883316" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.12062" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_12063_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-53.880203" ty="-23.978315" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.12063" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_12064_1" label="Group_1" layer="Layer0">
+								<mesh name="M7e3e44299bbfbe51e737c740a77760e3_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-53.880203" ty="-22.073317" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.3RJOoWjUv7gBFRwTImQG_C" />
+								<tag value="SU.PATH.0.19843.19842.19489.12064" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_12134_1" label="Group_4" layer="Layer0">
+								<mesh name="Mc78994daf10b2c8797c93b552881c38d_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-55.785202" ty="-30.302916" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.06jI8cQSbEL8swC3t4C$HK" />
+								<tag value="SU.PATH.0.19843.19842.19489.12134" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_12135_1" label="Group_4" layer="Layer0">
+								<mesh name="Mc78994daf10b2c8797c93b552881c38d_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-55.785202" ty="-27.889915" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.06jI8cQSbEL8swC3t4C$HK" />
+								<tag value="SU.PATH.0.19843.19842.19489.12135" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_12136_1" label="Group_4" layer="Layer0">
+								<mesh name="Mc78994daf10b2c8797c93b552881c38d_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-55.785202" ty="-25.476915" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.06jI8cQSbEL8swC3t4C$HK" />
+								<tag value="SU.PATH.0.19843.19842.19489.12136" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_12164_1" label="Group_4" layer="Layer0">
+								<mesh name="Mc78994daf10b2c8797c93b552881c38d_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-55.785202" ty="-11.252916" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.06jI8cQSbEL8swC3t4C$HK" />
+								<tag value="SU.PATH.0.19843.19842.19489.12164" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_12165_1" label="Group_4" layer="Layer0">
+								<mesh name="Mc78994daf10b2c8797c93b552881c38d_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-55.785202" ty="-8.839916" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.06jI8cQSbEL8swC3t4C$HK" />
+								<tag value="SU.PATH.0.19843.19842.19489.12165" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_12166_1" label="Group_4" layer="Layer0">
+								<mesh name="Mc78994daf10b2c8797c93b552881c38d_1"/>
+								<material id="0" name="_DarkGray_-G60f630e09f21130da34200be54183931"/>
+								<Transform tx="-55.785202" ty="-6.426916" tz="87.726013" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.06jI8cQSbEL8swC3t4C$HK" />
+								<tag value="SU.PATH.0.19843.19842.19489.12166" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19489_1" label="Keyboard" layer="Layer0">
+								<mesh name="M6ce4d85a628a88bbdb3ac24a8e5a9c2e_1"/>
+								<Transform tx="-57.690201" ty="-32.207916" tz="85.821007" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.0YZKzCH259zfbxRDBPwdX$" />
+								<tag value="SU.PATH.0.19843.19842.19489" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<Actor name="SU_19843_19842_19636" label="Dell_Computer" layer="Layer0">
+						<Transform tx="-1.26744" ty="-139.269501" tz="33.284576" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.0NlUAvT2zDeRb8vNq1DyxS" />
+						<tag value="SU.PATH.0.19843.19842.19636" />
+						<children visible="true"  selector="false" selection="-1">
+							<ActorMesh name="SU_19843_19842_19636_14409_1" label="Dell_Computer_Tower" layer="Layer0">
+								<mesh name="Mf7c0a9e57626198c4a417f522901dfe1_1"/>
+								<Transform tx="94.455399" ty="40.15382" tz="-19.609215" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.1CHa2DLNn2pe2Gmqggmen2" />
+								<tag value="SU.PATH.0.19843.19842.19636.14409" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<Actor name="SU_19843_19842_19637" label="Mouse" layer="Layer0">
+						<Transform tx="-37.872814" ty="30.640581" tz="86.61161" sx="0.079797" sy="0.079797" sz="0.079797" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.1qSnNf$3bBcw0ZbcEmHY3M" />
+						<tag value="SU.PATH.0.19843.19842.19637" />
+						<children visible="true"  selector="false" selection="-1">
+							<ActorMesh name="SU_19843_19842_19637_1" label="Mouse" layer="Layer0">
+								<mesh name="Mf2a47c6809d88e175dade0ef7b16aa13_1"/>
+								<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+								<Transform tx="-37.872814" ty="30.640581" tz="86.61161" sx="0.079797" sy="0.079797" sz="0.079797" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.1qSnNf$3bBcw0ZbcEmHY3M" />
+								<tag value="SU.PATH.0.19843.19842.19637" />
+							</ActorMesh>
+							<ActorMesh name="SU_19843_19842_19637_2" label="Mouse" layer="Layer0">
+								<mesh name="Mf2a47c6809d88e175dade0ef7b16aa13_2"/>
+								<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+								<Transform tx="-37.872814" ty="30.640581" tz="86.61161" sx="0.079797" sy="0.079797" sz="0.079797" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+								<tag value="SU.DEPTH.4" />
+								<tag value="SU.GUID.1qSnNf$3bBcw0ZbcEmHY3M" />
+								<tag value="SU.PATH.0.19843.19842.19637" />
+							</ActorMesh>
+						</children>
+					</Actor>
+					<ActorMesh name="SU_19843_19842_1" label="Computer" layer="Layer0">
+						<mesh name="M181900dad960beccb34f53c4e0ff4647_1"/>
+						<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+						<Transform tx="43.639786" ty="-59.892952" tz="0.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.1RdRVUa856k9eRh8hkn3id" />
+						<tag value="SU.PATH.0.19843.19842" />
+					</ActorMesh>
+					<ActorMesh name="SU_19843_19842_2" label="Computer" layer="Layer0">
+						<mesh name="M181900dad960beccb34f53c4e0ff4647_2"/>
+						<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+						<Transform tx="43.639786" ty="-59.892952" tz="0.0" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+						<tag value="SU.DEPTH.3" />
+						<tag value="SU.GUID.1RdRVUa856k9eRh8hkn3id" />
+						<tag value="SU.PATH.0.19843.19842" />
+					</ActorMesh>
+				</children>
+			</Actor>
+		</children>
+	</Actor>
+	<Texture name="Fencing_Mesh_Blue-Fencing_Mesh_Blue" texturemode="0" rgbcurve="-1.000000" file="ComputerDesk_Assets/Fencing_Mesh_Blue-Fencing_Mesh_Blue.png">
+		<Hash value="c208c84a9a055f7fd4326ee702ebb2a4"/>
+	</Texture>
+	<Texture name="Desktop" texturemode="0" rgbcurve="-1.000000" file="ComputerDesk_Assets/Desktop.jpg">
+		<Hash value="36b28b1162a83d3add8bde37572ef492"/>
+	</Texture>
+	<Texture name="Wood_Bamboo_Medium" texturemode="0" rgbcurve="-1.000000" file="ComputerDesk_Assets/Wood_Bamboo_Medium.jpg">
+		<Hash value="5c295377b5841043c91fa6fdd77423e6"/>
+	</Texture>
+	<Texture name="Metal_Seamed" texturemode="0" rgbcurve="-1.000000" file="ComputerDesk_Assets/Metal_Seamed.jpg">
+		<Hash value="5d138b70c4e48e4b95fa622d46745217"/>
+	</Texture>
+	<Texture name="Carpet_Plush_Charcoal" texturemode="0" rgbcurve="-1.000000" file="ComputerDesk_Assets/Carpet_Plush_Charcoal.jpg">
+		<Hash value="2ac63243a65570c7e2615c3fa7c09088"/>
+	</Texture>
+	<MasterMaterial name="Default-G7a1920d61156abc05a60135aefe8bc67"  label="Default" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.215861,G=0.215861,B=0.215861,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="_DimGray_-G70f008275dfdf7fb8b4fa757ec18b5d0"  label="&lt;DimGray&gt;" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.141263,G=0.141263,B=0.141263,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="0135_DarkGray-Gb4ca666c4347886458857469a845a29e"  label="0135_DarkGray" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.082283,G=0.082283,B=0.082283,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="0134_DimGray-G866b7a963d0be1a687f09b9f57aeb001"  label="0134_DimGray" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.141263,G=0.141263,B=0.141263,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="0136_Charcoal-G841f576d4c246bf12f1841b29a124c87"  label="0136_Charcoal" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.016807,G=0.016807,B=0.016807,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Fencing_Mesh_Blue-L61a183308e4605252399a39a9cb9ec5e"  label="Fencing_Mesh_Blue" Type="2" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.036889,G=0.036889,B=0.036889,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="Fencing_Mesh_Blue-Fencing_Mesh_Blue.png"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=1.0,G=-1.0,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="_DarkGray_-G60f630e09f21130da34200be54183931"  label="&lt;DarkGray&gt;" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.082283,G=0.082283,B=0.082283,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="0104_MediumBlue-L5912d6d6dbd2f3505c3d157a1809e889"  label="0104_MediumBlue" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.270498,G=0.396755,B=0.533276,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="Desktop.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=1.0,G=-1.0,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Wood_Bamboo_Medium-L5b8c478964f6a0d62bddfcdcae4503fe"  label="Wood_Bamboo_Medium" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.439657,G=0.141263,B=0.024158,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="Wood_Bamboo_Medium.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=1.0,G=-1.0,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Metal_Seamed-L42b2cab1cee81f8fe2942b2bc5ba55e2"  label="Metal_Seamed" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.181164,G=0.184475,B=0.171441,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="Metal_Seamed.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=1.0,G=-1.0,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="0137_Black-G5154ef1ddb887761ab56fed69062a27e"  label="0137_Black" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.000000,G=0.000000,B=0.000000,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="_Gray_-G016791896adc79b7feae68aa6e74b1b5"  label="&lt;Gray&gt;" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.215861,G=0.215861,B=0.215861,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="0133_Gray-Ga6d39b6d72bc9bbdfc26a70f5cd2f2db"  label="0133_Gray" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.215861,G=0.215861,B=0.215861,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="0065_Lime-G8c212f0bcbf2fa7cb18bb1ad088e8f65"  label="0065_Lime" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.000000,G=1.000000,B=0.000000,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_006-G94c612c2d89cec98445aacc93c16b843"  label="Color_006" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.093059,G=0.093059,B=0.093059,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_004-G185f76c80e5eddcce3d5a8e7a6416f2c"  label="Color_004" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.270498,G=0.270498,B=0.270498,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Color_000-G1cefcbfd5c337093cc7da225869414e8"  label="Color_000" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=1.000000,G=1.000000,B=1.000000,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Carpet_Plush_Charcoal-L2244f76eea189abdf3bd33dfea08b778"  label="Carpet_Plush_Charcoal" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.095307,G=0.095307,B=0.095307,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="Carpet_Plush_Charcoal.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=1.0,G=-1.0,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<MasterMaterial name="0131_Silver-G228334f0f7df652a71ad739ac06606b0"  label="0131_Silver" Type="2" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.527115,G=0.527115,B=0.527115,A=0.521569)"/>
+		<KeyValueProperty name="Opacity" type="Float" val="0.521569"/>
+	</MasterMaterial>
+	<Export Duration="0"/>
+</DatasmithUnrealScene>

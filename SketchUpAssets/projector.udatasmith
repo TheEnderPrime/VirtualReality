@@ -1,0 +1,94 @@
+<DatasmithUnrealScene>
+	<Version>0.21</Version>
+	<SDKVersion>4.21E1</SDKVersion>
+	<Host>SketchUp</Host>
+	<Application Vendor="Trimble Inc." ProductName="SketchUp Pro" ProductVersion="2018"/>
+	<User ID="52e5064a4510ea397a0a03b048f98cce" OS="Windows 8.1"/>
+	<StaticMesh name="M615e2eae1e69b37db6c2be488279020d_1" label="CGM_Furniture_Projector_Screen_Cover">
+		<file path="projector_Assets/M615e2eae1e69b37db6c2be488279020d_1.udsmesh"/>
+		<Size a="686.612366" x="3.484545" y="99.212601" z="3.937008"/>
+		<LightmapUV value="-1"/>
+		<Hash value="1d2e6b02121da8a26566349205ea983c"/>
+		<Material id="1282133" name="Object_CGM_Black-G0b85060c4c373f2bbc433ce0f2befaa4"/>
+	</StaticMesh>
+	<StaticMesh name="Mffe55a906a19dc80a81110b2cb57b786_1" label="CGM_Furniture_Projector_Screen_Edge">
+		<file path="projector_Assets/Mffe55a906a19dc80a81110b2cb57b786_1.udsmesh"/>
+		<Size a="15111.979492" x="0.11811" y="98.425194" z="60.826771"/>
+		<LightmapUV value="-1"/>
+		<Hash value="d79312e633402a0d28e4179fccd04f68"/>
+		<Material id="1282133" name="Object_CGM_Black-G0b85060c4c373f2bbc433ce0f2befaa4"/>
+	</StaticMesh>
+	<StaticMesh name="M9d3f5d1bf1b8bff4d162605ecaf02985_1" label="CGM_Furniture_Projector_Projector">
+		<file path="projector_Assets/M9d3f5d1bf1b8bff4d162605ecaf02985_1.udsmesh"/>
+		<Size a="174.611755" x="9.84252" y="12.739381" z="13.032717"/>
+		<LightmapUV value="-1"/>
+		<Hash value="118960abefcc8185e5f1e898f92b75a4"/>
+		<Material id="1282130" name="Object_CGM_Dark-grey-G8038bdbc0e0a8c85e0633100bcc87ecc"/>
+		<Material id="1282133" name="Object_CGM_Black-G0b85060c4c373f2bbc433ce0f2befaa4"/>
+	</StaticMesh>
+	<StaticMesh name="Mf60a049bb615ebe19939a8f264d7c3a3_1" label="CGM_Monitors_and_Sideboards_Screen_Proj_Area">
+		<file path="projector_Assets/Mf60a049bb615ebe19939a8f264d7c3a3_1.udsmesh"/>
+		<Size a="557.878479" x="21.259842" y="0.11811" z="13.031496"/>
+		<LightmapUV value="-1"/>
+		<Hash value="3ded47de3b4e265f9af2439e12e85999"/>
+		<Material id="1282136" name="CGM_Screen_Proj_Area-L2c3cfbeeef6184fd5a3b84d0af069ca5"/>
+	</StaticMesh>
+	<Actor name="SU_15230" label="CGM_Furniture_Projector" layer="Layer0">
+		<Transform tx="156.256287" ty="-143.568741" tz="-101.758751" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+		<tag value="SU.DEPTH.1" />
+		<tag value="SU.GUID.2vEwqLEwf7mAiq2_DkhxmH" />
+		<tag value="SU.PATH.0.15230" />
+		<children visible="true"  selector="false" selection="-1">
+			<ActorMesh name="SU_15230_15226_1" label="CGM_Furniture_Projector_Screen_Cover" layer="CGM_Furniture">
+				<mesh name="M615e2eae1e69b37db6c2be488279020d_1"/>
+				<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+				<Transform tx="-95.743713" ty="120.681046" tz="118.241249" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.3Basrx_iLAhA3eiuiCaVki" />
+				<tag value="SU.PATH.0.15230.15226" />
+			</ActorMesh>
+			<ActorMesh name="SU_15230_15227_1" label="CGM_Furniture_Projector_Screen_Edge" layer="CGM_Furniture">
+				<mesh name="Mffe55a906a19dc80a81110b2cb57b786_1"/>
+				<Transform tx="-94.743713" ty="125.781792" tz="-36.258751" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="-0.707107" qw="0.707107" qhex="0000000000000080F20435BFF204353F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.1yd17SWlj30RbFNJIHW5UZ" />
+				<tag value="SU.PATH.0.15230.15227" />
+			</ActorMesh>
+			<ActorMesh name="SU_15230_15228_1" label="CGM_Furniture_Projector_Projector" layer="CGM_Furniture">
+				<mesh name="M9d3f5d1bf1b8bff4d162605ecaf02985_1"/>
+				<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+				<Transform tx="42.756283" ty="-143.568741" tz="115.138153" sx="2.54" sy="2.54" sz="2.54" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.2ijGWj$z94BvZNZu6N_f2i" />
+				<tag value="SU.PATH.0.15230.15228" />
+			</ActorMesh>
+			<ActorMesh name="SU_15230_15229_1" label="CGM_Monitors_and_Sideboards_Screen_Proj_Area" layer="CGM_Furniture">
+				<mesh name="Mf60a049bb615ebe19939a8f264d7c3a3_1"/>
+				<material id="0" name="Default-G7a1920d61156abc05a60135aefe8bc67"/>
+				<Transform tx="150.756287" ty="125.781792" tz="-31.758751" sx="11.335926" sy="2.54" sz="10.81994" qx="0.0" qy="0.0" qz="0.0" qw="1.0" qhex="0000000000000000000000000000803F"/>
+				<tag value="SU.DEPTH.2" />
+				<tag value="SU.GUID.3AjcdsC1X3tg3b0Yz5mmBn" />
+				<tag value="SU.PATH.0.15230.15229" />
+			</ActorMesh>
+		</children>
+	</Actor>
+	<Texture name="CGM_Screen_Proj_Area" texturemode="0" rgbcurve="-1.000000" file="projector_Assets/CGM_Screen_Proj_Area.jpg">
+		<Hash value="8ea8f46cd03ad8decd0be8a6f8879db9"/>
+	</Texture>
+	<MasterMaterial name="Default-G7a1920d61156abc05a60135aefe8bc67"  label="Default" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.215861,G=0.215861,B=0.215861,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Object_CGM_Dark-grey-G8038bdbc0e0a8c85e0633100bcc87ecc"  label="Object_CGM_Dark-grey" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.132868,G=0.130136,B=0.130136,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="Object_CGM_Black-G0b85060c4c373f2bbc433ce0f2befaa4"  label="Object_CGM_Black" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.019382,G=0.018500,B=0.018500,A=1.000000)"/>
+	</MasterMaterial>
+	<MasterMaterial name="CGM_Screen_Proj_Area-L2c3cfbeeef6184fd5a3b84d0af069ca5"  label="CGM_Screen_Proj_Area" Type="1" Quality="0" >
+		<KeyValueProperty name="Color" type="Color" val="(R=0.887923,G=0.896269,B=0.913099,A=1.000000)"/>
+		<KeyValueProperty name="UseTextureImage" type="Bool" val="true"/>
+		<KeyValueProperty name="Texture" type="Texture" val="CGM_Screen_Proj_Area.jpg"/>
+		<KeyValueProperty name="TextureScale" type="Color" val="(R=1.0,G=-1.0,B=0.0,A=0.0)"/>
+	</MasterMaterial>
+	<Export Duration="0"/>
+</DatasmithUnrealScene>
